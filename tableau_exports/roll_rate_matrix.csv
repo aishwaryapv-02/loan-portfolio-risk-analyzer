@@ -1,0 +1,11 @@
+previous_status,new_status,loan_count,roll_pct
+90 days late,current,17,0.12878787878787878
+90 days late,120 days late,115,0.8712121212121212
+30 days late,current,229,0.5531400966183575
+30 days late,60 days late,185,0.4468599033816425
+60 days late,current,53,0.2864864864864865
+60 days late,90 days late,132,0.7135135135135136
+current,30 days late,405,0.01166642661673628
+current,current,33201,0.9563877286475587
+current,paid off,1109,0.031945844735705026
+120 days late,charged off,115,1.0

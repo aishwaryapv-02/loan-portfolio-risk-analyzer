@@ -2,13 +2,13 @@ with charge_off_ages as (
   select c.loan_id,
     cast(l.origination_date as date) as origination_date,
     date_diff('month', cast(l.origination_date as date), cast(c.charge_off_month as date)) as month_on_book,
-    date_trunc('quarter', cast(l.origination_date as date)) as vintage_quarter
+    cast(date_trunc('quarter', cast(l.origination_date as date)) as date) as vintage_quarter
   from {{ ref('charge_offs') }} c
   inner join {{ ref('loans') }} l
     on c.loan_id = l.loan_id
 ),
 vintage_sizes as (
-  select date_trunc('quarter', cast(origination_date as date)) as vintage_quarter,
+  select cast(date_trunc('quarter', cast(origination_date as date)) as date) as vintage_quarter,
     count(loan_id) as total_loans
   from {{ ref('loans') }}
   group by 1
