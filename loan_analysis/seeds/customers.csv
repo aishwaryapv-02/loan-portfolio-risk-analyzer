@@ -1,0 +1,1001 @@
+customer_id,name,age,state,income_bracket,credit_score_band,score,grade
+c2a7af9e-ab79-4005-add1-77d2c700d84c,Christopher Miller,99,Maine,90k+,Very Good,778,A
+101cd468-5a5c-4689-a4c3-8c4119613698,Jason Nguyen,32,Texas,60k-90k,Excellent,805,A
+fa900d46-88e1-4883-aa6f-30c077c8cd55,Michael Monroe,21,Rhode Island,<30k,Good,706,C
+38c92c57-215c-48da-affe-6666fa72766d,Jennifer Martin,53,Oklahoma,90k+,Good,726,B
+ade19b1a-5d3e-438b-bd9e-f14dabd69cb9,David Snyder,49,Hawaii,30k-60k,Very Good,764,A
+ae54d496-33f8-4baf-bb05-a81d7d24563a,Donald Waller,46,Idaho,60k-90k,Fair,630,E
+cc5604a3-3a48-4fd2-9dd1-8982aa8bfa01,Justin Johnson,35,Alaska,30k-60k,Poor,315,G
+adb4bded-0a6c-4878-aedc-6fd57543afab,Kristen Chen,31,Mississippi,30k-60k,Excellent,830,A
+248a141c-7ccb-4b72-bfcb-60e4f96b0e5c,Eric White,87,Texas,30k-60k,Fair,600,F
+b5d23309-b6d2-490d-bd9f-0e25762c5366,Regina Williams,29,Oklahoma,30k-60k,Excellent,834,A
+33756584-e354-4be7-b108-27306a6d28ec,Samantha Blair,93,New York,<30k,Very Good,754,B
+892a486a-d560-4aa5-83d6-543d05f68f2f,Ryan Harrington,72,Virginia,<30k,Very Good,748,B
+c55f009f-cfbd-4409-b775-537d77ef456c,Denise Peters,22,Washington,60k-90k,Good,720,B
+8b65edca-fbab-4e12-b7d9-599af21248b3,Michele Blake,21,Oregon,60k-90k,Excellent,850,A
+b45697ce-b2db-4a99-a602-6f9d2d1a44aa,Katherine Stanton,29,North Carolina,<30k,Good,739,B
+49342bb1-2907-4b45-808e-57181bddf7cb,Bonnie Johnson,45,Connecticut,<30k,Very Good,758,B
+d06d8b87-5066-4f5a-8044-030417c5b0ff,David Baldwin,47,Montana,90k+,Good,688,D
+41b87546-daa2-46b6-a2d3-da15043be119,Sara Smith,82,Massachusetts,90k+,Fair,618,F
+c50fc657-c7b1-42d0-84c2-070c4a8006eb,Devon Curtis,95,South Carolina,30k-60k,Very Good,783,A
+e847ba9e-31bf-47aa-9e7c-a35e8c500dae,Rebekah Melendez,21,Florida,90k+,Good,717,C
+fc601fee-51c7-4821-a190-d6804ac3053d,Stephanie Brown,89,Kansas,30k-60k,Fair,581,G
+5b73e18c-3b44-4674-ba64-5ffda899e4b0,Amanda Holmes,43,Michigan,<30k,Excellent,835,A
+ff92a26c-e534-4934-bc5c-c7d59e92fc89,Chad Rollins,87,Alaska,60k-90k,Good,688,D
+604596a7-4b36-4e6e-9ea4-b9b8de933d80,Elizabeth Rodriguez,71,Ohio,90k+,Good,685,D
+989dff47-7c27-42dc-9dc9-861c754ce90f,Tina Russell,46,Missouri,60k-90k,Fair,585,G
+f2f15dd0-5436-45b3-b89f-3c8047c7868c,Tracy Adams,75,Colorado,60k-90k,Good,670,D
+0dfe17ff-030e-4567-b43c-9f0efbf74fab,Isaac Lopez,93,Kentucky,90k+,Good,720,B
+b65f2d6f-a6e7-4a88-b324-ba9424952502,Randy Rubio,53,Vermont,30k-60k,Very Good,774,A
+d13e6de5-4ac5-4b72-ba5c-66cc1332c0c4,Luis Turner,18,Florida,30k-60k,Fair,650,E
+dc002033-e95e-4a59-8670-026dcb1f142d,Natalie Mcgee,38,Tennessee,30k-60k,Excellent,805,A
+fbfa70a2-348d-4feb-a05a-ca135ed1fefa,Dustin Jackson,72,California,90k+,Excellent,819,A
+bfbccef6-a1ef-4fe0-a2e2-43fee14d028a,Jasmine Simmons,61,Missouri,30k-60k,Fair,606,F
+e709524e-54b2-49c6-9be9-721f80e65087,Michael Bryant,53,Montana,90k+,Very Good,787,A
+c2279e86-4adb-4c4d-964f-9f3f58ef37e4,Mary Burke,37,South Dakota,90k+,Excellent,847,A
+afb0d1b7-7a7b-4282-b1e2-1d9fc3f11606,Jon Chambers,45,New Hampshire,90k+,Good,714,C
+66272a7c-df1e-4c2a-a6d1-b6173397f360,Victor Castro,61,New Mexico,<30k,Very Good,753,B
+39a8f449-de18-4f95-92df-f0ebc15361bd,Matthew Hancock,31,Kentucky,30k-60k,Very Good,766,A
+4d2de388-3de0-4bb6-932e-61fbeeacc3e2,Amy Conner,29,Florida,90k+,Good,735,B
+ede9ddb4-c415-4ca7-8cc3-2965e477a285,Spencer Erickson,66,Montana,30k-60k,Good,688,D
+019d605e-52dc-4d00-8d1a-79096a28a505,Glenn Williams,30,Arizona,30k-60k,Fair,600,F
+b4d447fe-9741-46db-a142-68298fb1b338,Sean Smith,63,West Virginia,30k-60k,Very Good,751,B
+68717a91-7c77-4929-995f-946f2a63a214,Erik Graham,62,New Mexico,90k+,Very Good,754,B
+602476b2-77db-4f34-9dff-f3bbf2f315e3,Ronald Hayes,95,Idaho,30k-60k,Good,702,C
+0640e0f8-eb36-48c5-84ee-9e7865898626,Brandon Thomas,51,West Virginia,90k+,Very Good,752,B
+e5583409-f06f-4445-8c58-9eb6fc58a54c,Trevor Rodgers,23,Washington,90k+,Excellent,807,A
+33a1f47d-dc41-489f-8b38-4f860c31d139,Vincent Davis,76,Georgia,60k-90k,Poor,392,G
+33328aff-57f6-434a-9a78-c2143377bdba,Jennifer Russell,86,Colorado,<30k,Excellent,842,A
+130cd773-1931-4603-a408-4bb1e1eda9da,Gina Crawford,33,New York,90k+,Good,676,D
+fdaee43a-4487-4dc7-8c82-87fb221d7a3c,Paul Castro,66,New Mexico,<30k,Excellent,848,A
+1a31a469-5735-4196-8e9f-143f359587c6,Thomas Roberts,28,Utah,90k+,Excellent,835,A
+0d51e2bf-a1bc-41fc-b5da-ba2bba021818,Lisa Howell,88,Mississippi,30k-60k,Poor,536,G
+bf2128b1-c426-4258-a7af-f5ea28a5d9ee,Jennifer Smith,55,California,<30k,Excellent,841,A
+db90e2b4-9750-4a7f-9db4-cb95ec83c904,Johnny Turner,98,Nevada,90k+,Very Good,775,A
+478cd64b-7d1a-4627-95db-961e2b2521e9,Vincent Riley,97,Utah,<30k,Fair,589,G
+4578d402-3758-44ae-b98c-b2b6b7e4c3fe,Michael Johns,64,Pennsylvania,90k+,Very Good,758,B
+051514b2-9ece-42cf-8421-460d9cb573a9,Deborah Banks,91,Florida,<30k,Excellent,842,A
+c35dc88e-24dc-4fd3-806a-5e5c3cce0e26,Stephen Hill,42,New York,<30k,Good,678,D
+85ab217d-87d3-4ba0-9c60-739dc5afcf78,Colton Johnson PhD,26,South Carolina,90k+,Poor,428,G
+2af0afaa-7a57-43a3-bb84-f753704e25a8,Joshua Brewer,23,New Mexico,90k+,Good,682,D
+84b971c5-d63c-4dc0-83ac-901fc8bb2066,Duane Kaiser,47,Massachusetts,<30k,Very Good,752,B
+eea45581-c631-4617-b435-4bde6800b569,Andrew Pruitt,55,Ohio,90k+,Excellent,846,A
+d946205d-e065-446b-a73a-133600ccf33f,Shawn Weaver,28,Missouri,30k-60k,Good,732,B
+753bea92-fb53-4b45-be22-8a53081c23ba,April Hill,47,California,60k-90k,Good,712,C
+0fe7682f-9b24-49d5-bf67-f820fec663ba,Pamela Alexander,30,Alabama,30k-60k,Very Good,762,A
+6369850d-ad24-4a17-ac46-8a48e3a5709e,William Fletcher,66,New Hampshire,<30k,Very Good,748,B
+7bc5705c-b348-4ec1-bf7e-d04b1192c751,Kevin Martin,53,Ohio,30k-60k,Excellent,842,A
+a361bce9-b7cb-467d-873f-df37ffceaa75,Richard Hayes,76,Maine,60k-90k,Fair,663,D
+1af8c7e6-6c0e-4895-8628-d98737f6ec92,Rebecca Hicks,99,Minnesota,60k-90k,Very Good,755,B
+4aa7723c-cb69-4f10-a1e9-efe3ddc0069c,Christina Fernandez,64,Georgia,90k+,Good,682,D
+3af49a01-d216-46c5-9471-016f36d0cb69,Andrew White,38,Maine,60k-90k,Excellent,818,A
+3929be1b-0241-44ef-b900-0f2e56abe49c,Nathan Kelly,65,Wisconsin,90k+,Good,678,D
+c91f2ace-951c-400a-83ba-2a89ef282575,Thomas Miller,63,Maryland,30k-60k,Very Good,797,A
+09c72648-23bb-4d74-9ae2-d415bdf12ab1,Amy Dudley,44,Washington,60k-90k,Very Good,752,B
+7932b9d1-ec6f-4655-bff8-4b588b8e81c0,Austin Roberts,52,Washington,60k-90k,Very Good,760,A
+a609816c-f8ce-4202-9fc7-bf202685d24c,Dean Gonzalez,27,West Virginia,<30k,Poor,548,G
+b54fe25b-b9a4-484a-a715-fe009eda1246,Monica Scott,95,Vermont,60k-90k,Good,727,B
+6cb59dfb-c396-43c2-a0de-1876b10d81f4,Mark Glover,99,Maine,30k-60k,Good,712,C
+db140084-9a4e-450c-9a21-85543233f02c,Rachael Hernandez,39,Montana,<30k,Very Good,779,A
+412b8ff7-1baf-4539-97d1-34703c689ab1,Ricky Jones,86,Alabama,<30k,Fair,664,D
+523e94ff-e8f0-46b2-a6f4-51765016f15f,Scott Lopez,49,Ohio,90k+,Very Good,759,B
+6f03f699-7c41-482b-84ca-77b9f0d5b7a2,Daniel Byrd,38,New Hampshire,90k+,Very Good,784,A
+2441a2d1-2e62-443c-b6f0-32eb9dd2cb4a,Mary Weaver,77,California,60k-90k,Good,689,D
+6c6fd365-a54e-410d-bc98-3b844a4ddd78,Michele Dennis,66,Hawaii,<30k,Good,716,C
+42f7d3a6-c3d8-469e-9fe8-bc0d48f99229,Stephanie Hahn,52,North Carolina,<30k,Good,710,C
+a068231a-7335-4006-a11a-e9c6d31acfc7,Kayla Rogers,99,Louisiana,30k-60k,Good,724,B
+7a1a10bf-2b6d-4467-ac22-a53067bda9cd,Abigail Spence,89,Rhode Island,<30k,Fair,601,F
+dbcc0aff-d368-46be-837f-90e539e20eb3,Jeff Smith,46,Ohio,30k-60k,Excellent,800,A
+588a91fd-1366-48f6-881a-28b542a07953,Eugene Rodriguez,59,Minnesota,<30k,Good,710,C
+85e33c3c-ce1d-4d4c-8aaf-8117bcd611ac,Sherry Smith,25,Kentucky,30k-60k,Excellent,815,A
+2c794f1a-c14c-43f5-9781-6e1edb431f71,Jeffery Jackson,47,Rhode Island,30k-60k,Poor,413,G
+f750717a-7a8d-4d2d-be8e-b7de25294228,Laura Stevens,22,Maine,<30k,Good,725,B
+b09b38d6-81f8-4158-b318-02e270573815,Gail Singh,58,Minnesota,30k-60k,Good,705,C
+272c9a38-b036-4fc0-8abf-9ab0b44865cf,Jacob Long,69,South Dakota,60k-90k,Good,716,C
+31ac3205-f1cc-42b6-9492-ac6ab4af9aac,Dana Baker,52,New Hampshire,<30k,Good,687,D
+6c4ff21e-c62a-4b02-a01a-4788cdc74187,Larry Montgomery,26,Arkansas,<30k,Very Good,783,A
+4ff1bb99-d55b-44c6-8291-0c326cb301a8,Heather Lopez,45,Delaware,60k-90k,Very Good,786,A
+13971f7c-ae28-4a3f-b46e-f744f76402ab,Christina Rivera,90,Wyoming,30k-60k,Good,712,C
+ccc2addc-a9a8-4d89-a7f9-916316970914,Jerome Jordan,58,South Dakota,60k-90k,Good,731,B
+75977e2e-36ce-4032-8a38-0c8a84129807,Jennifer Roy,45,Missouri,30k-60k,Good,729,B
+8d05fee4-c779-4c50-a269-ff9b5fa22608,Dr. Jessica Hunter,81,Michigan,60k-90k,Very Good,768,A
+760db967-6910-4ebd-8529-bc10aa825c9b,Roy Gardner,68,Rhode Island,<30k,Good,715,C
+a07d19cf-bdbc-47cf-80b9-0bdeb23ef761,Andrew Giles,76,Missouri,60k-90k,Fair,619,F
+48b3dae4-e67f-457b-9271-3517727971f3,Debra Robertson,36,New Hampshire,30k-60k,Very Good,771,A
+3edbccc4-3065-4a08-893b-09c972ae65dd,Amber Gibson,51,Connecticut,60k-90k,Excellent,835,A
+104f4d88-c035-42d3-9d94-a9a9dd84f20e,Trevor Davis,35,Missouri,90k+,Excellent,806,A
+a5198798-cd61-4348-942f-e989b66375c6,Susan Watson,49,Maryland,30k-60k,Very Good,751,B
+dc5b5943-0f45-4180-8871-a0fdd105585b,Lacey Hall,89,Alaska,30k-60k,Very Good,781,A
+211c86ef-c2a9-441e-a072-50b443b7d5f8,Mrs. Jo Myers,86,North Carolina,60k-90k,Very Good,778,A
+fd9ae4a1-c08c-4777-8821-b4e007a89c28,Brian Ibarra,51,Ohio,<30k,Excellent,805,A
+a6ad522a-fa18-4f7b-b5af-49d53be20298,Joel Lynch DVM,92,Wisconsin,90k+,Good,705,C
+7f602a34-f97e-4d85-b810-eed28025f571,Kelly Krueger,72,Nebraska,90k+,Good,687,D
+b7e62884-f73f-474d-af52-b40f4b6bde03,Mr. Marc Blair Jr.,92,South Carolina,30k-60k,Excellent,834,A
+a310d282-136f-41f9-bdd7-78564fe8062a,Jennifer Moreno,69,Alabama,90k+,Good,695,C
+a006bb67-6fb1-43ed-a2ca-647d7e7c28a7,Shannon Soto,64,Illinois,60k-90k,Good,703,C
+a2f9d038-2032-4b32-bfa8-2e545c12cd34,Joseph Smith,46,Iowa,30k-60k,Excellent,846,A
+33c2d6b4-3528-4d0f-8d28-a1ebe09476c5,Tina Boyle,35,Michigan,30k-60k,Good,679,D
+f35bef6d-6a66-4a0f-b484-41286cd1bb8c,Gabriel Rubio,83,Maryland,90k+,Very Good,786,A
+463579b1-a85b-4e71-90b7-83d50b37b373,Erik Anderson,81,Nevada,90k+,Excellent,804,A
+1f604051-597b-4d82-b06a-21b93896ffc1,Ronnie Price,29,Ohio,<30k,Very Good,797,A
+e37855d2-6f4d-4860-a3b5-5ce38a9bfc2f,Jon Garcia,24,Vermont,30k-60k,Excellent,801,A
+e218ae9e-fdf1-4750-8026-587581fb7d77,Kathleen Sanders,32,Montana,30k-60k,Excellent,832,A
+27199ebf-f4d0-45fa-a854-96947db39bce,Tyler Ortiz,37,Oregon,30k-60k,Very Good,780,A
+e84f44f4-a20c-4979-9d64-1e1ada4fca96,Brittany Patterson,98,North Dakota,60k-90k,Very Good,741,B
+31de6d05-758d-4600-a7b3-95b51ded9672,Steven Hernandez,38,Vermont,<30k,Very Good,792,A
+41627eca-aec0-4a19-ac59-5e1aa84ae3de,Benjamin Kim,72,Tennessee,90k+,Very Good,777,A
+558c04b7-71f8-44cc-82b1-b33d174cd20b,Rose Hamilton,94,Iowa,30k-60k,Very Good,777,A
+5a2bae54-07ab-4515-bd16-158b7cdc7cf2,Jessica Holloway,26,Alaska,<30k,Very Good,765,A
+d8abae30-e96d-49b8-8e34-eed97ce1f5ec,Richard Estrada,67,Missouri,90k+,Good,697,C
+6ad65bd3-621a-4f3c-aae3-e56528d3e754,Christopher Buchanan,66,Nevada,90k+,Excellent,802,A
+8a0321ba-8422-45f2-afb8-ed11387b9354,Stephanie Garcia,94,West Virginia,90k+,Fair,650,E
+fa9860b5-ab54-4a2a-a448-3cbfb7243d3c,Katherine Medina,77,Maryland,90k+,Excellent,816,A
+af03c9cb-b7b3-4e0f-9e53-c184218cce29,Robert Wilson,85,West Virginia,60k-90k,Excellent,834,A
+5e53b1b8-f148-4eeb-9e5c-1a8ca4898803,Jordan Savage,50,Mississippi,90k+,Good,739,B
+92f7eb1f-1854-4cda-83a2-c652a39b310b,Amanda Freeman,88,New Hampshire,90k+,Very Good,770,A
+3b8ab380-55e1-43b0-9f52-2e58b029b543,Emily Dunn,19,Iowa,90k+,Fair,663,D
+f7237e59-c698-4129-82d1-bf110aff7ccc,Michael Woods,32,Mississippi,<30k,Excellent,849,A
+eee1cdf0-6f75-4530-90f1-f68c8da04a5f,Margaret Mathews,86,California,90k+,Good,689,D
+76460451-74a0-45cb-bf2e-db838f999008,Alicia Smith,52,Kansas,<30k,Very Good,763,A
+990efbe8-fc53-4213-80bd-5b2fc6b2145c,Jacob Summers,61,Alaska,<30k,Very Good,765,A
+b970e418-b9ce-491d-903f-1df35838a63a,Katherine Madden,32,Hawaii,30k-60k,Good,698,C
+2285af68-605e-417a-8955-cd6fe7b3465a,Douglas Davenport,55,Alabama,90k+,Excellent,849,A
+213c9f92-9fe0-4f15-8cb4-47a3e7f07673,Elizabeth Singh,73,Indiana,90k+,Good,707,C
+e10fd066-26f0-430f-803e-c1995030c3c9,Kevin Davis,38,Florida,60k-90k,Fair,597,G
+61bfb4e0-5aa7-47d3-9310-fdae08982307,Christopher Ferguson,76,Massachusetts,<30k,Fair,639,E
+b8676886-a73f-44e6-b6f7-35235bb5dbdd,Jane Mason,18,Kansas,<30k,Good,734,B
+e6930f91-a505-476b-bff9-661391b84287,Hannah Blankenship,51,North Dakota,60k-90k,Very Good,772,A
+597548e0-a09e-489f-bac9-85ada1f33474,Charles Nguyen,82,North Carolina,<30k,Very Good,745,B
+84b067b6-7a2a-479f-ab32-2132fcc106f3,Mark Jones,40,Wisconsin,90k+,Very Good,765,A
+2ad38c03-2e9c-4bb0-969b-12a10e99d0d9,Timothy Miller,82,New York,<30k,Good,716,C
+2e073c52-bb66-493a-8a90-daaf38fac39d,Audrey Mcclure,31,Ohio,30k-60k,Poor,557,G
+b91da25f-feb4-46ba-981c-099147c960b2,Kaylee Stevens,98,North Dakota,<30k,Good,671,D
+3ac1cb04-d022-4462-88ef-ea5cc431cf4a,Jason Johnson,56,Kansas,90k+,Poor,422,G
+38bc0587-8f43-44cf-b9b3-d6826ec2c7a9,Kenneth Stewart,99,South Carolina,30k-60k,Good,691,C
+5bae4ecd-db5c-4d97-87e1-16779be5ef3c,Andrew Miller,82,Nevada,30k-60k,Fair,645,E
+340483ab-975e-4325-87d4-5a88449c9422,Joseph Rose,95,North Carolina,<30k,Good,687,D
+1429212c-ff0c-4a41-a056-09fc9e623c9f,Nicholas Tran,43,Texas,90k+,Very Good,768,A
+a002f65b-cea9-4c54-9c8b-4301b57d80c4,Michael Robinson,37,Hawaii,90k+,Very Good,750,B
+25146671-5ef5-47e7-bcf4-8302c9fc19dd,Carol Foster,65,Maine,30k-60k,Fair,602,F
+52f641e8-93d2-411c-b5a2-2c55bccf5867,Emily Chandler,38,Maryland,60k-90k,Excellent,836,A
+cb7bd4c7-84c6-418b-9877-96b65e306c8b,Michael Bishop,87,New York,30k-60k,Excellent,836,A
+9f50bac2-c2d4-463f-b1d4-144ff69984fd,Julie Williams,85,Iowa,<30k,Good,688,D
+e1fe80b0-d398-4775-a7f5-44cb8694944e,Angela Mayer,18,Florida,90k+,Good,731,B
+d2ff4851-2ccf-43b6-96d2-d84d4f0ff8f3,Christopher Warren,94,Connecticut,90k+,Fair,625,F
+995caf88-e706-499d-9229-bb6ae4d0642d,Austin Gonzalez,59,Delaware,90k+,Fair,585,G
+4f1a657b-6909-42bc-90d3-37e9da48bc31,Brenda Lewis,80,Indiana,30k-60k,Very Good,754,B
+1b89ae79-837b-4c2e-bace-eab2d7264b00,Michael Oconnor,20,Delaware,90k+,Very Good,788,A
+9c30a1dd-e686-4785-8041-49bdfcfae7f0,Nicole Smith,32,North Carolina,90k+,Excellent,831,A
+a26b4dc8-18f8-4b8b-b9c1-5f14c953d0e6,John Cardenas,64,Wyoming,30k-60k,Good,699,C
+92b3f3ee-31f9-41e7-950f-c8fb5655d857,John Gilmore,57,Nebraska,<30k,Excellent,804,A
+c45258da-3a53-42d2-89b1-a67b57bd04b3,Louis Gillespie,48,West Virginia,90k+,Good,703,C
+83569a32-7be3-4433-ad0d-51957ed9887e,Ian Lynch,25,Idaho,<30k,Excellent,823,A
+eb803a4e-315c-452f-9530-c7f093b49f47,Patrick Wiley,48,Nevada,60k-90k,Good,699,C
+ccbe9315-8e7c-465c-8b4e-42befa17f8ee,Garrett Clay,90,Minnesota,60k-90k,Fair,585,G
+9fb879fc-2e9f-4288-90ca-c12b83ea58aa,Glenn Jones,28,Texas,30k-60k,Excellent,842,A
+4c570c65-db07-4077-aa8e-f25a31cc50dc,David Garcia,28,Pennsylvania,90k+,Excellent,813,A
+32cccdf5-d11d-4700-89b0-885bc2cb8a78,Nicholas Valdez,80,Rhode Island,60k-90k,Fair,646,E
+d4f0aafe-1d3d-47b8-9700-9c5b18760c61,Randy Frey,26,Maine,<30k,Excellent,850,A
+c659b1e2-d18a-489b-b840-732eca9ace21,Timothy Rogers,86,Idaho,30k-60k,Fair,626,F
+8c12865a-ae4a-422f-a6f9-d04530af2902,Kenneth Rhodes,34,Pennsylvania,30k-60k,Excellent,824,A
+9fe90c94-66a5-48dc-b1d2-4e561a087489,Patricia Estrada,34,New Jersey,<30k,Good,730,B
+f1144377-f93d-4ec4-8586-d4e14ca9db0d,Robert Gonzalez,78,Utah,30k-60k,Fair,638,E
+75fdf2c5-e59c-4b0a-ac99-ea1909f7cfe2,Sarah Marshall,88,Pennsylvania,60k-90k,Excellent,802,A
+20cdd425-16cb-4e26-af61-1df1890835da,John Walker,39,Alaska,30k-60k,Excellent,802,A
+a0c0a0e0-0bb8-464c-b774-5cfafc26b6e0,Christopher Luna,51,Georgia,30k-60k,Very Good,781,A
+67338a10-17d6-49ba-aa4d-25516cc323c0,Charles Bowman,85,Indiana,60k-90k,Excellent,820,A
+776825b7-1c15-4473-bceb-344ebb6869f6,Amanda Oneal,95,Arizona,30k-60k,Good,683,D
+80a4b9f0-bb61-4fcc-acdb-23e1393ca8f2,April Hicks,72,New Mexico,60k-90k,Very Good,785,A
+3b1add53-e7f5-466b-bfe8-754158e267b6,Jose Moore,45,Arizona,30k-60k,Good,736,B
+5684a4e6-b6ac-4b66-8d18-06505509bd29,Hannah Foster,87,Georgia,60k-90k,Good,705,C
+831796d5-76bb-4d45-86d3-88b00a773699,Jasmine Blevins DVM,43,Oregon,90k+,Good,703,C
+7deeedf9-5541-431f-a3f6-793c012d628b,Beth Le,57,Massachusetts,30k-60k,Good,739,B
+297151d2-bb3c-4717-b97a-f1694b78a443,Richard Guerrero,69,West Virginia,60k-90k,Fair,652,E
+2fd42ea6-b095-4a65-b2da-54f0739ca925,Cynthia Cole,65,California,60k-90k,Fair,602,F
+a2a3e7c3-892f-4ca2-a4c4-f43b0cf2a714,Amanda Barry,74,Virginia,60k-90k,Excellent,824,A
+f172d2e2-17f3-4edb-a0f8-de8c364784fa,Jose Gardner,84,South Carolina,30k-60k,Very Good,781,A
+f962a64f-7d53-4bea-a36a-3cc6b8fb41d9,Miguel Barajas,75,California,60k-90k,Poor,493,G
+c0866f98-b260-4379-8f3e-25e42b122744,Jessica Hardy,33,Montana,60k-90k,Very Good,763,A
+d2c14f19-3113-4fc2-af6f-c1e56bc1c59f,Jennifer Noble,49,North Dakota,<30k,Very Good,777,A
+b148b07c-66cf-40ba-bae5-d7b5dfc2a81c,Nicole Carrillo,46,Wisconsin,<30k,Excellent,841,A
+2cd273b8-bb80-4b38-85d3-42c3482c09b5,Chad Lewis MD,26,Nevada,<30k,Excellent,804,A
+351fd164-91db-4edf-ab47-ca04eeb9195d,Justin King,61,Idaho,90k+,Good,736,B
+39f2c9e6-1237-4e51-a55c-d279b7eeb688,Emma Miller,20,Alaska,<30k,Fair,612,F
+48925bf5-8161-4cfd-a7bc-241721852349,Audrey Scott,93,Indiana,<30k,Very Good,764,A
+21b38432-4f68-4df6-91e8-886caeb9bd28,Charles Moore,88,Connecticut,60k-90k,Good,698,C
+b88ee584-44c9-4e40-9082-aac63ebf62fc,Dr. Susan Moore,47,Wisconsin,30k-60k,Very Good,773,A
+02d02712-75ca-43f7-abfd-614c11f729ff,Scott Acosta,93,Pennsylvania,30k-60k,Excellent,825,A
+bcc2e653-a160-42f7-bd71-ddffa7c8cf17,Robert Torres,46,Alaska,90k+,Good,715,C
+aac124e4-7106-4aec-818c-99d55361f50e,Joshua Estes,18,Nebraska,60k-90k,Poor,476,G
+6fc5cf31-4b35-4951-add8-b40929338057,Michael Mcintosh DDS,27,Washington,60k-90k,Good,732,B
+f6eb77f5-c1ed-454e-9c7c-ecf07661818b,Nathaniel Hall,98,Illinois,60k-90k,Very Good,790,A
+f378e7d0-eab8-406f-b8fe-75c3b7bfb403,Brandon Walker,25,Illinois,60k-90k,Very Good,770,A
+f59843ab-09eb-4beb-980b-ea070b527e22,Shannon Chan,47,Rhode Island,90k+,Very Good,796,A
+8d445503-0c36-4a0e-b243-6b60c3b807a4,Julie Thomas,26,West Virginia,60k-90k,Fair,657,E
+1c357cb2-189d-48fe-94e7-a2edfa1594ed,Teresa Brown,22,Hawaii,90k+,Excellent,800,A
+151aeb36-3496-4053-9d31-a40d4f78afb8,Jose Wilson,60,Nebraska,60k-90k,Good,734,B
+c80266f3-1fda-4216-b1bf-d46075f6b473,William Mooney,27,Maryland,90k+,Excellent,808,A
+a0517c80-59ac-4a2f-9eb2-981b01111746,Julie Simpson,83,Oklahoma,30k-60k,Very Good,768,A
+7cb7f758-dbed-44a2-ae80-079336f734fb,Stephanie Garcia,48,Wisconsin,60k-90k,Very Good,750,B
+493122f0-c271-43f4-aa3a-dadc6d207853,Jennifer Blanchard,53,Arizona,<30k,Very Good,754,B
+cd4df7b1-dd7c-4e93-a0fd-377d8d6abc56,Terri Clark,80,Kentucky,30k-60k,Excellent,804,A
+5cbb441e-03af-421f-85c1-ac0314b6b621,Jose Harvey,45,Georgia,<30k,Good,735,B
+c91067ce-e9cb-42d9-aad1-4f83ad7ccf01,Courtney Lee,87,Wyoming,30k-60k,Excellent,841,A
+01e8d1c3-5805-48c2-b275-f46a56d70ac8,Raymond Kim,34,Delaware,90k+,Excellent,817,A
+468292e4-82e7-478d-87db-bed093761036,Kelly Martinez,91,Nebraska,30k-60k,Very Good,753,B
+6cb77588-0c85-4379-a7a9-cf73c0be3b8e,Andrew Smith,91,Massachusetts,90k+,Good,689,D
+c0159442-49dc-426b-8362-c461256b421b,Michael Allen,78,New Jersey,60k-90k,Good,693,C
+23bd48f1-646d-49f4-b616-4e3c3e78c2be,Sara Brown,49,Virginia,<30k,Very Good,750,B
+1afabbfb-cce4-4093-a7cb-0d96870b4fe7,Ann Bailey,78,Illinois,30k-60k,Very Good,763,A
+68b7305e-f3ff-420d-a9ea-a8063b4f7930,John Cannon,70,Georgia,90k+,Very Good,778,A
+07241866-4baa-445e-9198-5e82e2d36b0a,Victoria Jackson,42,Virginia,90k+,Fair,595,G
+de150dd2-dcef-44de-aac9-0c8cf1a71958,Megan Cunningham,30,Indiana,90k+,Very Good,782,A
+1e9df33f-7542-45a4-b012-1c2a1a1d64dc,Terry Mays,30,Ohio,<30k,Very Good,754,B
+88edfe17-e154-4ab1-a198-c63b664793c6,Jeffrey Savage,73,Rhode Island,<30k,Poor,512,G
+c9711987-00fd-41d4-9670-f42dd79acdda,Christopher Wells,63,Maine,60k-90k,Good,712,C
+6a581992-e8d4-4d96-852e-f592ff99931a,Rodney Johnson,72,Wyoming,90k+,Very Good,786,A
+842dd30b-aea1-42ce-bcce-6400c8f9df60,Edward Osborne,70,Arkansas,<30k,Good,684,D
+8ab79115-5ece-4e31-a3d1-8edc7ad88a58,Cindy Cox,77,Massachusetts,30k-60k,Very Good,770,A
+518366ca-c636-4b1f-b300-f7d051367eef,Nicole Coleman,24,North Carolina,90k+,Very Good,783,A
+3909fc11-0835-4408-b0cc-17f11e3a0129,Ashley Peterson,30,Utah,90k+,Good,731,B
+a809be2b-2352-418f-8c88-a6cb81d21666,Stephen Ayala,25,Hawaii,<30k,Good,731,B
+9075cc7c-83f6-4dad-9fdf-78b973e68857,Ross Sullivan,69,Washington,90k+,Fair,606,F
+d0eeb6fb-dca8-4faa-a5f0-c224e065818e,Stephen Fleming,61,South Carolina,60k-90k,Very Good,777,A
+068d1a6a-c78d-4688-9b17-48c8712f0eeb,Danny May,31,Massachusetts,60k-90k,Good,690,C
+0f27694b-5524-4abf-9b96-cd6f05afe56c,Kellie Smith,49,Alaska,90k+,Good,722,B
+530a6039-8268-4cad-af06-cebb3ab50d81,Marcus Walker,42,Alabama,<30k,Excellent,801,A
+9f2e3bb7-fc3e-4803-bb53-004ae2b7d5c4,Shannon Hendricks MD,42,Michigan,90k+,Fair,611,F
+da11130d-904b-489c-8f13-5621d423cd72,Richard Morris,86,Arkansas,90k+,Good,675,D
+8d63a4eb-8780-4053-835b-6ac309e6a8e3,Richard Williams,75,Wyoming,60k-90k,Fair,596,G
+940a0ac3-87a3-4f5f-819e-3119b7da3b0e,Lisa English,35,Wyoming,30k-60k,Good,690,C
+39f42eae-cad6-4418-9468-5d788ce7b311,Denise Price,72,Nebraska,90k+,Good,687,D
+17a520c0-41b8-4f8a-b280-1f0d92229fc5,Kenneth Martinez,41,Virginia,90k+,Very Good,780,A
+f507119f-7b2e-484e-9fca-401d72c749c8,Ashley Williams,53,Kentucky,60k-90k,Good,735,B
+0a68704b-7f98-4b34-8e72-e2b808259bb3,Jenny Walker,77,Arizona,90k+,Good,675,D
+c232d3a2-d0eb-48bc-82cc-946378cdf916,Jeremy Reese,49,Kansas,<30k,Good,688,D
+3a3c24da-a25d-4712-98c6-93371be71f8c,Gary Costa,27,New Mexico,90k+,Fair,587,G
+383ed725-2d4e-45a6-99b7-1d6ae1f952b2,Natalie Guzman,74,Alaska,<30k,Good,691,C
+5865209d-7852-48a3-803c-33eb13b6183e,Sylvia Drake,88,Missouri,30k-60k,Good,703,C
+944ea4df-461d-414c-9917-48bc542d2c26,Wendy Soto,30,Texas,90k+,Very Good,799,A
+529a8bfc-d529-46b4-833c-00289393ca86,Danielle Serrano,24,Arizona,60k-90k,Excellent,811,A
+008d589b-c394-4144-9677-5e70c85d16a5,Brenda Hayes,87,Rhode Island,<30k,Fair,646,E
+ed59efaa-d862-4a4b-9980-d1eaa039ea7e,Eric Hall,19,New Jersey,30k-60k,Good,721,B
+5cbc5d69-ba5d-47df-94f2-130fdc5f7f30,Connie Kim,29,New Hampshire,<30k,Very Good,778,A
+4f29a7ac-53e5-447c-b54c-a6be5352431e,Michael Sanders,48,Connecticut,30k-60k,Poor,309,G
+6defc4cc-7d56-4962-b686-251d2d7500e3,Brittney Byrd,39,Texas,<30k,Fair,664,D
+ef48aff9-0348-47ec-b445-fd16aa1bb50d,Lisa Mcmahon,70,Iowa,<30k,Excellent,818,A
+cc4f19bc-6e36-4784-8134-a66fad7de6b6,Veronica Bullock,80,Massachusetts,30k-60k,Very Good,745,B
+4e947865-6c62-42a1-89b6-923578a66564,Teresa Thompson,79,Kentucky,30k-60k,Very Good,753,B
+029a02b8-9016-40f5-95ed-527ba19950b7,Benjamin Briggs,45,Kansas,60k-90k,Good,727,B
+3a15bb1a-4df4-445a-852b-1f832f20349c,Ronald Smith MD,69,Maryland,30k-60k,Good,730,B
+bd3d3176-b0a6-4a48-a6cc-c4f0b9d54e22,Patrick Smith,25,North Dakota,<30k,Excellent,830,A
+b5188e50-ea95-4990-ab49-e014cad93d74,Sarah Mueller,39,Oklahoma,60k-90k,Good,691,C
+0a8a57f0-8748-4380-88b4-337047adfbba,Jeremy Miller,66,Minnesota,60k-90k,Excellent,814,A
+40c86726-7ee4-4b1e-ab3c-a2e45cf7e176,Blake Rowe,18,Illinois,90k+,Good,722,B
+f1a2d195-20c3-40f3-9558-82e132e2d1ba,Austin Miller,67,Connecticut,60k-90k,Fair,656,E
+56684ccc-f8a8-4092-b948-19ac1f5755f7,Carolyn Swanson,51,Kansas,30k-60k,Very Good,749,B
+578a9163-9296-439f-bc34-f4352db940bb,Ashley Murphy,76,North Dakota,60k-90k,Very Good,790,A
+8620ad1c-ff65-4437-bd8f-fbb9c1eeeb4e,Ashley Lewis,54,Kansas,<30k,Very Good,777,A
+726ff2ce-d89c-47a2-993b-dc14b9e1c50b,Melissa Myers,72,Mississippi,90k+,Excellent,849,A
+6c19acbf-6bcc-49ca-a81e-3b9846aed5b4,Curtis Carter,89,New Jersey,90k+,Very Good,751,B
+474fe597-0444-49d8-8eb1-e01e8f12395f,Aaron Smith,80,New York,30k-60k,Very Good,779,A
+b5143908-c34a-4516-9828-ece38a79b377,Mark Black,37,Florida,<30k,Good,735,B
+56abeb00-47db-47f0-91a8-69a25efd6cae,Kimberly Alvarez,42,Oregon,60k-90k,Good,703,C
+6d90c367-3bd7-435d-83d4-57564a1aead8,Kevin Marsh,55,Maryland,30k-60k,Good,691,C
+b0d0eca1-3791-403e-8f0c-2f54fda4ba33,Aaron Lutz,45,Hawaii,90k+,Good,713,C
+5f90fe22-7ed7-4e8a-a2b2-09128c25a5c3,Cynthia Jones,25,Delaware,30k-60k,Good,728,B
+e26c7e1f-0872-4572-8c9d-7e61bd63e39b,Eric Wilson,92,Arkansas,<30k,Very Good,778,A
+7b114850-6d26-492f-a8fa-547cfc02eb3b,Regina Guerrero,87,Utah,<30k,Good,678,D
+defe387d-2eeb-4561-b9d6-54a1ddcb330d,Tammy Hoffman,25,Vermont,60k-90k,Good,699,C
+73b69645-d482-4ee7-b855-5eb450fd9315,Thomas Robinson,58,California,60k-90k,Excellent,824,A
+a7bc6d37-89c3-4444-b42d-8b48f51a418f,Kimberly Cain,25,Washington,60k-90k,Good,719,C
+c4b7cb61-c9c1-4ad3-ab35-e84229fd4341,Jill Parker,24,Alaska,30k-60k,Excellent,808,A
+3366b8dc-3775-4b51-88e9-c41e874d5b98,Barry Rodriguez,92,New Mexico,60k-90k,Very Good,746,B
+b4dacce6-0afa-4ed3-9818-395640b2a647,Deanna Booker,79,South Carolina,30k-60k,Very Good,741,B
+7c4cce00-61b9-427f-9373-7ca62cfed733,Joshua Ellis,82,West Virginia,60k-90k,Good,695,C
+fe0b6c3f-8049-41e4-b95b-feceb1dbffaf,Rebecca Hardin,85,Pennsylvania,30k-60k,Good,736,B
+dde4d330-e88a-4c53-80bc-e1548964f865,Amber Mccann,38,Hawaii,90k+,Good,734,B
+f06dceb2-c943-45dd-9e59-8e72695c34a3,Ms. Jasmine Warner MD,25,North Dakota,<30k,Poor,514,G
+a664aaac-faee-4874-9a3d-d6e9637b911e,Christopher Ramos,83,Idaho,60k-90k,Excellent,809,A
+e3e487c0-fcc2-40a2-80be-a936b6bd36f5,Kelsey Snyder,28,New Hampshire,90k+,Very Good,778,A
+a2d4b363-130e-4dc4-9c02-e456d07abb6f,Adam Kemp,41,Rhode Island,60k-90k,Poor,349,G
+f75115cc-3b7e-479b-bf39-6eec338dabef,Richard Soto,26,Maine,90k+,Very Good,751,B
+e4c45a5c-d441-42f8-ad17-2dae04c129fc,Patrick Smith,94,Nebraska,30k-60k,Very Good,770,A
+89291611-e4a3-474a-8472-5f0582df432f,Angel Baker,26,Colorado,90k+,Very Good,797,A
+8950c9f8-a5ba-4e63-8ec9-06f62e751607,Jacqueline Collins,48,Pennsylvania,30k-60k,Good,674,D
+9a7d1e76-6650-45f5-b914-5774f0586109,Larry Rivera,69,Maryland,90k+,Fair,648,E
+f58490a0-76ed-4d53-836f-e01470bc4994,Lisa Phillips,33,Kentucky,30k-60k,Good,734,B
+59de96d0-1ec3-4026-81c3-9f96c61123ad,Michael Young,90,New Mexico,60k-90k,Very Good,788,A
+3f9fc59b-fec0-4543-ac41-f44166833ab7,Roberto Martin,49,California,30k-60k,Good,685,D
+39cc226b-d863-4712-9d6a-5f90cbd890ee,Christopher Lee,92,Oklahoma,30k-60k,Very Good,745,B
+c7252067-0ffb-41f5-a634-f0ff7274faf7,Alexandra Schmidt,94,Kansas,30k-60k,Excellent,830,A
+1d9aa719-4b6a-4e21-9cb8-c451feb626ca,Jacob Carroll,23,Oregon,90k+,Good,686,D
+1601fd41-7c61-4ede-8424-f984bed20f4f,Lisa Parker,97,Illinois,60k-90k,Very Good,797,A
+a5a59da2-34d1-4ff3-ae75-17179bad7a74,Linda Allison,28,California,30k-60k,Good,739,B
+1740071e-c867-4b4e-bffb-08adf9a6b31b,Daisy Richardson,71,Arizona,<30k,Very Good,792,A
+87c093d1-d0b8-4a08-a46c-33241cccd15d,Donna Abbott,92,Arkansas,<30k,Very Good,740,B
+55679986-ba83-46b6-8fae-0cc8b9500b6f,Michele Stevenson,90,Washington,30k-60k,Good,725,B
+d73bf58b-ba4a-4d21-b4b6-47491dd35c04,Kimberly Cox,84,Wisconsin,60k-90k,Very Good,773,A
+7bf13a0a-9865-4f42-85e2-7822e22d041a,Shannon Wilkinson,58,North Dakota,30k-60k,Good,723,B
+3ba3c6a7-98b7-4ed5-b8a1-fa6229051ece,Amanda Peterson,51,Maryland,<30k,Fair,627,F
+c11b7669-eec8-4efb-bcdb-229d834a1ccf,Martin Small,44,Oklahoma,<30k,Very Good,795,A
+fca55acf-03d7-495c-91ad-33a303d519ae,Casey Brown,58,Maine,90k+,Fair,585,G
+715c5910-c455-40fa-b9dc-9e78ea8298e7,Jessica Sutton,48,Minnesota,60k-90k,Excellent,844,A
+84cb87a6-5853-4b93-b971-290edd2f74ff,Sheila Chandler,51,Illinois,60k-90k,Excellent,833,A
+4c6628e0-01ea-48da-9101-1e634bd0b657,George Hicks,68,Alaska,30k-60k,Excellent,827,A
+6af3f846-f133-4573-b0f4-0a4196ecc067,Ashley Gutierrez,34,Delaware,90k+,Very Good,754,B
+aba1f15b-9640-4021-853e-01cbdb19128d,Molly Collins,56,Kansas,90k+,Excellent,830,A
+3e593501-3c55-459f-9785-ae257a2d6b23,Peter Thompson,76,Tennessee,30k-60k,Fair,628,F
+1ed9e35b-293e-45c7-8f1d-404e384375c1,Jonathan Anderson,58,Maine,90k+,Excellent,822,A
+5a94c8c6-e631-4043-9fa9-4ad0e79a09cd,Seth Romero,27,Montana,<30k,Poor,350,G
+797fe4ca-e2d5-4161-8058-b9e6ecfdadd8,April Shaw,19,California,30k-60k,Poor,517,G
+c4775b93-ad07-4504-b412-0655111e1e85,Colton Stewart,76,Nebraska,30k-60k,Fair,597,G
+7c054cea-dae8-4b86-93f8-676c92ef439e,Megan Byrd,97,Arizona,<30k,Very Good,756,B
+17e77406-6c3f-45a6-937d-fe5e9b6528a5,Laurie Koch,90,Massachusetts,60k-90k,Fair,641,E
+77b1d902-45be-4588-aba1-3e7343f08739,Emma Wilkins,30,North Carolina,<30k,Fair,609,F
+6c75138e-978b-4c98-a336-28d6f21956e1,Steven Donaldson,27,Wyoming,30k-60k,Good,680,D
+382dd943-13ae-4f65-9b0c-cd49c4b0dc6b,Sarah Cunningham,86,Mississippi,90k+,Good,706,C
+395d3cb1-7f0c-4dd7-aeb2-f3e091650862,Sarah Galvan MD,45,Indiana,30k-60k,Fair,656,E
+57dad462-8a3b-48d7-9112-a4bfed9ea198,Peter Barber,82,Missouri,60k-90k,Very Good,796,A
+351c3ce4-04ba-440f-9996-fde0df08d95e,Mary Harris,51,Wisconsin,<30k,Excellent,834,A
+b6e4ddd2-c871-4f3e-90e4-86097d2f19bb,Karen Velasquez,34,Tennessee,30k-60k,Excellent,826,A
+8e1f1a92-c44b-4820-8d06-e43506c73f0e,Jeremiah Smith,62,Idaho,<30k,Very Good,756,B
+bbf8bc23-c8a0-4bd1-87a0-84eca748c0d6,Richard Jones,26,West Virginia,30k-60k,Poor,396,G
+af92a698-21a7-4308-9750-da79791ffaaa,Allison Bates,49,Wisconsin,60k-90k,Very Good,740,B
+b335c447-8001-4a1e-8414-7c6109704583,Alicia Fitzgerald,65,Delaware,90k+,Good,670,D
+b0d8e557-6852-49fc-a594-0d98d31f0918,Sandra Cole,54,Tennessee,60k-90k,Poor,567,G
+08332aec-bf99-4a46-a427-727b0a9ff784,Matthew Chaney,38,Kansas,60k-90k,Very Good,747,B
+39dbcc0f-048b-4c3b-ba12-4a57cef11016,Jasmine Humphrey,74,Indiana,60k-90k,Very Good,773,A
+75449832-dcfb-447c-b771-ad9382f82d23,Leah Wong,87,Oregon,60k-90k,Good,670,D
+e7f400cb-57d0-4798-a037-45a11c5fcc90,Zachary Bradley,56,North Dakota,60k-90k,Very Good,764,A
+b6b8989e-1f61-497d-ab50-a4c4e5083817,Alicia Williams,96,Tennessee,60k-90k,Very Good,781,A
+185d3bfd-66ad-472e-b53c-56445f430873,Matthew Murphy,85,North Dakota,<30k,Good,696,C
+2557a5a9-2dda-4449-b935-786401f40aa2,Nancy Wilson,19,New Jersey,30k-60k,Excellent,844,A
+0a406f5a-208e-4abf-82a8-896b316413be,Emily Young,88,Oregon,90k+,Fair,620,F
+de9e5dd8-6537-4e70-8f9c-41606811537f,Danielle Snyder,56,New Jersey,90k+,Excellent,826,A
+63d463f0-acab-4f88-9a9c-f9e5ec7466fd,Mrs. Adrienne Lee,31,South Dakota,30k-60k,Very Good,763,A
+35420f98-11b1-435a-a2a9-ec9dae3db3c4,Eileen Smith,35,Colorado,<30k,Good,683,D
+ae1368b8-aeb9-46a9-9b49-a2c1e8abd91f,William Nguyen,51,Rhode Island,<30k,Very Good,749,B
+c59e1176-dc64-484c-b1ca-a55842ec758e,Denise Walker,32,Kentucky,60k-90k,Good,724,B
+ff4d63c1-91a4-42e5-97fa-ed04abf75eea,Danielle Goodman,31,Maryland,<30k,Good,702,C
+c1e4ef8a-e988-48df-9734-f5b9b3e1096a,Nicholas Todd,88,Oklahoma,60k-90k,Very Good,756,B
+6ac664a6-4f53-4122-aa88-1e96995b5de1,Edward Johnson,37,Hawaii,90k+,Fair,648,E
+09d6e8b5-356c-4fe1-8f06-89a2de94978d,Stephen Cooley,52,Connecticut,<30k,Excellent,827,A
+99e4b13b-ba90-4a5d-b426-e1765118f851,Sarah Morgan,54,Indiana,60k-90k,Good,716,C
+b0eceee1-97b9-4763-bcc1-52b05f5a916b,Emily Brown,95,Georgia,30k-60k,Good,705,C
+5b018b58-537d-44c3-a245-3aac384d2674,William Kelley,44,West Virginia,30k-60k,Very Good,783,A
+d6386612-32e5-410f-9db0-e1bce2074c7c,Arthur Sims,61,New York,<30k,Good,720,B
+166fca4e-deea-4a13-9132-1e2e53734019,Anthony Brown,44,Michigan,30k-60k,Excellent,848,A
+ba4e454d-9df2-4c6c-bc29-5b79cb1636f8,Kristina Howard,99,Nebraska,30k-60k,Fair,606,F
+df1a7324-2f68-49fb-94a8-f8ad87a90e9f,Summer Smith,51,Illinois,90k+,Excellent,826,A
+0d79c99f-be5f-4e0a-9706-916343939a84,Christian Bailey,82,Kansas,60k-90k,Very Good,775,A
+5fdcd49e-f0ec-4084-8c5c-7432c9c4598b,Michael Smith,80,Maryland,90k+,Poor,547,G
+5f90f9de-ad35-4fd5-afd5-df23e558eeae,Brittany Wilson,50,Alaska,<30k,Good,692,C
+b463bb4b-1162-47cd-a2c1-92cd85a7e918,Christina Hall,24,Montana,90k+,Good,717,C
+556ea9ce-b9c7-474e-9fb8-d131e2a87817,Brenda Reeves,29,Rhode Island,<30k,Good,731,B
+df132dcd-3ec3-4b51-a4fa-cc98600315f3,Roger Williams,99,Mississippi,<30k,Very Good,756,B
+e3b81c75-8045-42af-bfbd-b7b85c9d1c4c,Lisa Sloan,72,New Hampshire,30k-60k,Very Good,759,B
+ab81815d-5bd2-4543-8835-f677d3da4e6d,Jennifer Mahoney,53,Wyoming,30k-60k,Fair,653,E
+40e995ca-85da-4b9c-a7e8-2cc62888c2b1,Tyler Moreno,23,Virginia,60k-90k,Excellent,822,A
+eeebaff2-be23-4b1a-9eb2-c4ab54b96c9a,Rachael Jones,18,Maryland,30k-60k,Very Good,789,A
+61ba2414-4f2b-45fc-8a2a-74dee777b09c,Jill Johnson,60,Montana,<30k,Good,720,B
+914cc126-0e19-4324-9b94-b2694fc1eedf,Patricia Tran,34,Wyoming,60k-90k,Excellent,847,A
+a51f239c-f11f-4817-b167-1d213846ab38,Elijah Cooper,99,Nebraska,30k-60k,Excellent,808,A
+602bf3f0-ee22-45b4-8098-716914817038,Kayla Torres,51,Maryland,<30k,Excellent,842,A
+2c8b468b-fc08-4f3e-a067-5bc64876dfa2,Heather Johnson,38,Alaska,60k-90k,Excellent,807,A
+6116ec31-ae5c-4683-ae80-629872d2e64a,Lauren Henderson,74,New York,60k-90k,Good,699,C
+4725acbf-92f2-4a81-a5e6-b3a5fa466fd9,Janet Little,88,Montana,60k-90k,Excellent,828,A
+32cb46d4-5222-46f6-91b4-c84296e6ff9f,Krista Hart,72,Colorado,30k-60k,Very Good,790,A
+c1a472ee-3fa2-4e63-aeae-81dda5da13b0,Laurie Marsh,89,South Dakota,<30k,Very Good,784,A
+96888f89-3b48-4a2f-bd4b-ea1cf11b25ba,Logan Benson,19,Massachusetts,90k+,Good,690,C
+aa235633-1539-459c-a2a6-6b7c7ace0de3,Crystal Flores,32,Missouri,<30k,Excellent,806,A
+b212e5cc-8e0b-42a7-ba13-7c3b2baa505d,Shannon Price,27,Arkansas,<30k,Very Good,753,B
+368d9313-775b-4c45-8f3f-9acf0b00a6cb,Pamela Lane,37,Connecticut,90k+,Good,735,B
+331c3d2d-f975-4980-ac8c-a1a50d53fe83,Tracie Murray,87,South Dakota,90k+,Very Good,765,A
+f26aacf6-66eb-4fc0-90d1-1fe9749319a9,Briana Ray,22,Georgia,90k+,Very Good,790,A
+7db23b30-a7a5-40dd-b7af-28b913913c37,Andrew Daniel,65,Utah,30k-60k,Fair,623,F
+44057426-18bf-4091-874a-b9d7e6dac887,Lori Brock,92,Montana,<30k,Excellent,835,A
+dab29118-426b-49c8-a734-5647f2d070a3,Jennifer Palmer,88,Colorado,30k-60k,Poor,326,G
+f2f0a1a1-6df8-430b-b70d-e8b193c0ca28,Brad Lucas,36,New York,30k-60k,Good,690,C
+5eb6f5ca-bf0b-45f2-b1a9-3baf93a007aa,Jeremy Waters,73,Rhode Island,<30k,Fair,629,F
+762392c1-a4e3-4185-b762-acc2ff51d53c,Brent Allen,34,New Mexico,60k-90k,Excellent,840,A
+11e6b752-1f4c-49e4-a8f5-beb1ab6b7983,Jack Klein,23,Utah,<30k,Excellent,800,A
+0cefc3ec-4c5f-4c01-a0f4-f953045d426c,Leah Ruiz,57,Nebraska,60k-90k,Excellent,805,A
+bb43a9fe-5c13-4d60-97c8-22dcc7179905,Joseph Lee,64,Colorado,60k-90k,Good,688,D
+50a92ecb-a131-4065-b507-24418ca712f9,Joseph Johnson,23,Oregon,30k-60k,Very Good,770,A
+701bc2dc-b674-4a17-a44a-85825b7bf3ae,Linda Combs,63,Connecticut,30k-60k,Very Good,799,A
+0aaa2f19-02fd-4869-94bd-401c8f5972cb,Matthew Lewis,44,Texas,60k-90k,Excellent,838,A
+88a4eb76-69ed-40d6-82ae-50fca931fcca,Albert Martinez,49,Tennessee,30k-60k,Very Good,767,A
+32b0a62e-f529-434f-9ea3-332f97bfd99a,Ashley Scott,31,Utah,30k-60k,Very Good,745,B
+202b8d3f-0cc8-47af-b0dd-70a8482a90f8,Noah Conley MD,63,South Carolina,<30k,Good,678,D
+65e274b0-94a0-40f5-afa7-53ffeed2e41d,Edward Hayes,89,Mississippi,30k-60k,Very Good,756,B
+f43c31c0-c39f-4af2-8a2a-c33560899cef,Christopher English,70,Colorado,30k-60k,Very Good,754,B
+859f76cc-32a6-46f0-a89b-b4be16941ea4,Benjamin Miller,97,Texas,30k-60k,Very Good,763,A
+69ae0c88-1249-4c18-83f2-9c1809194bca,Jesus Bowen,37,Colorado,60k-90k,Fair,590,G
+2248575f-cea5-4173-9ddf-d2d568e3f05e,Michael Hill,48,Missouri,30k-60k,Very Good,778,A
+40a5dae7-fcaa-415f-b512-2327a53db9d6,Mary Grant,38,Wisconsin,30k-60k,Good,674,D
+bdc9f7d8-be25-43c7-8f46-9dcd21722410,Amanda Wells,40,Maine,90k+,Fair,629,F
+0d202065-aa4d-421e-b8e0-eb25202b2e72,Daniel Sherman,70,California,<30k,Good,721,B
+48d5e978-205c-47ea-a57f-ef0d7a252d64,Stacey Phillips,21,Washington,90k+,Fair,658,E
+184ad713-a82b-4379-bd38-01bf3caba9ff,Shannon Young,40,Tennessee,30k-60k,Very Good,781,A
+000adcf3-5fcc-42aa-9dce-0d513edaea97,John Nichols,60,Delaware,60k-90k,Very Good,773,A
+d7e9a329-d430-4503-83ff-c9240f8abfa1,Mark Martinez,70,Kentucky,30k-60k,Very Good,758,B
+addf136c-70cd-4d3c-bbc4-70a94bbf5343,Jennifer Riley,49,New Mexico,30k-60k,Excellent,845,A
+be160621-1158-422a-ac72-1e3655c78f8d,Travis Buckley,52,Tennessee,<30k,Good,677,D
+c31eab19-92ef-4fe1-bdea-89e2484326bb,Pamela Johnson,38,Florida,30k-60k,Very Good,789,A
+580ebc9d-1b01-4211-9861-775b1c81293e,Cathy Zimmerman,31,New Jersey,30k-60k,Very Good,792,A
+f712958c-409a-4798-9e24-fb911f3b1961,Robert Perez,66,New Hampshire,<30k,Good,692,C
+3e34a51f-bf98-412c-8a8f-92adeb76bfd5,Jason Young,22,Minnesota,90k+,Good,733,B
+c9cb2e6f-a04d-4553-97bb-01b1f48ccaa1,Jonathan Brown,78,Minnesota,60k-90k,Very Good,768,A
+3b2ce8bb-ef76-4e24-a7b1-73aefb3186cf,Joshua Aguirre,46,Arizona,<30k,Good,671,D
+564421f4-d6ba-4d0a-82e9-bf8edebf7e80,John Decker,43,Florida,90k+,Fair,605,F
+2577214d-5105-41ff-85bd-1b0c6a61aa38,Brittney Brown,76,Idaho,<30k,Very Good,794,A
+a252f66c-225e-409e-8754-0a2973410da3,Alec Jackson,62,Vermont,60k-90k,Good,736,B
+54d3339f-37b7-4a3c-ae33-600c1d2194bb,Samantha Weiss,57,Pennsylvania,60k-90k,Very Good,758,B
+e5ad637e-2c8e-47bd-8eb5-c998e0c9d0ac,Kathleen Mcdowell,47,Michigan,<30k,Good,694,C
+bd418a20-8be9-4096-9818-f930a70a69f1,Alexandria Patterson,46,Virginia,90k+,Good,674,D
+f3dcf04b-7262-46bb-ad3b-bbf8e931895b,Margaret Hayes,21,North Carolina,30k-60k,Fair,656,E
+302efda5-8bbe-40ba-942f-f0df56bbe387,Amber Medina,42,California,90k+,Good,735,B
+352b1485-34d3-4f94-959a-420edb62ccb0,April Miller,69,Pennsylvania,60k-90k,Good,736,B
+c43f523a-c0b5-4637-a1c9-f7bf596a997a,Nicole Garcia,60,Oklahoma,<30k,Very Good,784,A
+6cabf039-14c1-4e89-9984-9230ade6bcf4,Luis Warner,53,Florida,<30k,Fair,609,F
+35b10133-6600-414a-b5b6-380e5054f7dc,Mr. John Ashley,26,Utah,30k-60k,Good,691,C
+693cd893-8301-46f6-b703-8faa84027a52,Brandon Stout,53,Idaho,<30k,Good,674,D
+63de7d2e-441f-4772-ada8-65e47449986f,Christopher Simon,62,Texas,<30k,Fair,626,F
+c35b544c-09d1-4a3a-87b9-e83dc1673955,Victoria Cox,83,New Mexico,90k+,Excellent,815,A
+75bbffff-ebe5-452a-88af-aaca912bcb65,Alexander Swanson,69,South Dakota,<30k,Good,670,D
+8d6fd914-73e5-45f7-959b-aac834b2d6ca,Gabriel Kane,86,Delaware,90k+,Very Good,750,B
+53d916ed-6554-4c81-ac83-4f63f76d8e89,Brenda Henderson,60,Utah,60k-90k,Fair,591,G
+943e37b8-b410-4f0e-8db8-900daec97e56,Jill Thompson,21,Mississippi,30k-60k,Fair,615,F
+9a9fb476-9c6c-4d43-841a-4aaa5aa21149,Kristina Hinton,32,North Dakota,60k-90k,Good,721,B
+6d757735-6a56-4736-8eb7-3d3889e30043,Adrian Cruz,51,Oklahoma,60k-90k,Very Good,762,A
+d41c6dca-68da-4ec4-8c92-e825dbf0f16d,Reginald Hill,40,Pennsylvania,60k-90k,Very Good,782,A
+2ed405b7-9760-43e0-a7cb-6af7dd0ac324,Charles Hamilton,92,Texas,90k+,Fair,630,E
+16682824-d8b4-4757-a520-003953eaf444,Jeffrey Weaver,51,Washington,60k-90k,Fair,631,E
+dd4fd5ef-f8bd-4541-955a-63ea5f53b1ed,Edward Hughes,22,Louisiana,90k+,Very Good,777,A
+3abcc35c-42ab-4b22-9ce8-e14f1eece205,John Jones,31,Indiana,30k-60k,Very Good,752,B
+48b66a43-d91c-4902-9257-f3e6015513bb,Daniel Martinez,94,Rhode Island,90k+,Very Good,773,A
+d3af179d-d785-4aa4-81df-5568baa67fa2,Amy Lee,73,Nebraska,30k-60k,Excellent,800,A
+399698d2-c58d-4abe-985c-1bd48696369c,Traci Kerr,62,Mississippi,30k-60k,Poor,335,G
+0fcc9437-31b8-471d-817b-3db050dc0b5c,Beth Wong,58,Massachusetts,30k-60k,Good,681,D
+685bb5c0-bb7f-406e-8df8-3695903235c9,Deborah Mclaughlin,73,Utah,60k-90k,Very Good,775,A
+c751b2b9-9abd-487a-b5b4-367df9836fb8,Victor Richardson,95,Alabama,90k+,Very Good,758,B
+93de01f7-404c-4d20-990a-d9bc67b3a992,Michael Rivera,83,Washington,60k-90k,Very Good,786,A
+ca32c508-d91b-472f-a561-0fc58b1824cf,Jennifer Branch,32,Rhode Island,30k-60k,Excellent,835,A
+95e8594a-b243-48b8-97cb-f6e665371fbb,Albert Duncan,67,Ohio,<30k,Good,714,C
+c9ff0e71-f758-4558-8257-9bdc326bf1b1,Jamie Hoffman,91,Maryland,30k-60k,Very Good,762,A
+7952b48e-895f-437c-9ccd-b26bc12691a6,Thomas Mendez,42,New Mexico,<30k,Very Good,792,A
+c0936d1d-964d-40ed-bfd3-0094060198a0,Elizabeth Adams,50,Vermont,30k-60k,Fair,615,F
+62aa7d6d-c6b9-4408-9bfe-f589b9bc779f,Adrian Mack,23,Kentucky,30k-60k,Good,698,C
+a7bbaf12-0505-4c4f-9a10-8937e84cf707,Mrs. Ann Mejia,73,Massachusetts,60k-90k,Good,694,C
+d26b7902-6f77-4dd9-b01a-f8aec2d34339,Sandra Dominguez,18,West Virginia,90k+,Fair,638,E
+40c1fef4-fd90-41f9-8f1d-d2c7422138bc,Allison Thompson,84,West Virginia,<30k,Fair,631,E
+c00dedf7-a1d1-4115-88a3-b89f121f65b5,James Wyatt,86,Minnesota,60k-90k,Good,670,D
+f18c555a-f262-4019-ad6b-7744fd115823,Joshua Marshall,43,Indiana,30k-60k,Good,703,C
+7cc6a75b-f0ad-40fd-a19e-6dceb8cfab03,Andrea Allen,64,Mississippi,60k-90k,Very Good,751,B
+d9067e93-c9ef-4cd1-b7b9-126f445735e2,David Ruiz,73,Hawaii,90k+,Good,722,B
+38f1c639-5799-4b79-ac77-308ac3bfd00b,Jennifer Shields,26,Nebraska,60k-90k,Excellent,832,A
+00ad09c2-e7a6-4b22-a5b5-80a053bf2060,Brandon Williams,60,Oregon,<30k,Very Good,746,B
+fc1a6739-800e-45b3-a0c4-dc404f6083c4,Carlos Smith,97,Michigan,90k+,Good,679,D
+c0f02518-2727-4798-a317-d6c9c1af7453,John Delgado,58,Maine,60k-90k,Very Good,772,A
+f3380f8b-3f8b-47fa-bc90-c84183a0b813,Vanessa Lambert,33,Maryland,<30k,Good,707,C
+ccc26a82-e3ab-4ec9-8081-4a25e5027caf,Robert Berg,56,West Virginia,60k-90k,Fair,623,F
+b69a3494-1017-4acb-829a-5fa637d8a8be,Ryan Terry MD,82,Arkansas,60k-90k,Poor,359,G
+46e97d1a-a759-4915-b74d-92e18ff54307,Barbara Miller,57,Hawaii,90k+,Good,735,B
+32061e9f-5ede-435a-8ead-b2a5a3314946,Ann Krueger,70,Wyoming,30k-60k,Excellent,816,A
+3891b1dd-b8e3-45d4-91a9-b94414a60e22,Marie Russell,59,Idaho,90k+,Good,738,B
+0ec2777e-1d0c-4939-8a9c-23fd3014a3f6,Kelly Joseph,69,Washington,90k+,Excellent,850,A
+4e9f79d5-d70b-4029-86aa-d76c3b7ee003,Karen Anderson,55,Maryland,90k+,Good,702,C
+a7fca2b2-7705-44e4-8456-f7359e2560a3,James Harrell,88,Indiana,<30k,Good,726,B
+6c474709-e5c3-47fe-a76c-0b8f16f0d340,Ronald Stanley,34,Delaware,60k-90k,Excellent,824,A
+c886564c-1edd-4fa2-8ca1-3f4a6687fcac,Danielle Savage,42,Kentucky,<30k,Very Good,776,A
+f0317b5c-95f9-4fe2-af22-ea222b651168,Jenna Pearson,71,West Virginia,60k-90k,Very Good,770,A
+c642ed13-5967-488d-afdd-55dcd8dcc444,Anthony Walker MD,66,Wyoming,90k+,Good,701,C
+872c5214-6c03-474f-9af9-9097b0460cc8,Jonathan Boyer,40,Wyoming,60k-90k,Very Good,788,A
+38e1a61e-af4e-4fb7-902d-6f3281629931,Melanie Woods,96,Florida,60k-90k,Very Good,761,A
+82d6c5a4-50cd-4ded-aa81-bf996f5d9d74,Paul Blevins,90,Missouri,30k-60k,Good,728,B
+a5622c4a-5f2d-440b-89d7-b27e2800459c,Ashley Ramos,56,California,90k+,Fair,667,D
+6cc3cd7b-c533-4395-890a-e1e244ba83c5,Brandon Austin,69,Hawaii,30k-60k,Good,728,B
+7c14af61-99d7-434d-82e1-fd87bc4f11f2,Kevin Banks,88,Nevada,90k+,Good,673,D
+b11b0a5d-acc5-471a-bd60-549e62b09450,Ashley Kennedy,18,Nebraska,60k-90k,Very Good,770,A
+25901e0e-b706-4cdd-a6df-8204472ef5be,Marie Robertson,56,Illinois,<30k,Very Good,747,B
+d1139c73-0c8a-4e01-8c78-daa4a35ef63a,Kim Williams,54,Minnesota,60k-90k,Excellent,816,A
+f8ba1c9d-e210-4665-a896-226ff8fd8aae,Steven Herrera,44,Missouri,30k-60k,Very Good,744,B
+5636e551-5e26-40ba-9336-870fec66ba1e,Anne Davis,73,Washington,30k-60k,Good,718,C
+963dd468-d203-4cea-934e-356f404abdb6,Toni Rojas,92,Kentucky,60k-90k,Good,698,C
+7ea4b8eb-d98b-45ce-a856-0d60900870b7,Christopher Cunningham,95,Louisiana,30k-60k,Very Good,783,A
+07a8e4c0-a9e7-4e30-8aef-2ef182941801,Benjamin Clark,59,Georgia,30k-60k,Good,699,C
+106dd325-38b6-4179-a3ac-5e03876b7a0a,Robin Johnson,77,New Jersey,90k+,Excellent,820,A
+edd39921-fdbf-4995-aa47-a175d097b139,William Baker,74,Texas,90k+,Fair,632,E
+1fac3f28-a101-456e-bb15-b1fa6b02b82c,Dr. Henry Vargas,74,West Virginia,60k-90k,Excellent,822,A
+2fd42e75-eae0-4ff9-b02d-56e6219f3195,Mark Hodges,45,Nevada,<30k,Fair,646,E
+84883879-7839-4539-94bf-91d956f9b96a,Edward Torres,83,South Dakota,<30k,Very Good,774,A
+f53a6733-ada5-47fe-b42e-8098cf46e736,Scott Moses,78,Missouri,60k-90k,Poor,304,G
+74dd13e6-ea2a-4e7a-bf03-dfc62d8712db,Harold Hines,39,West Virginia,90k+,Very Good,784,A
+9aa0ae5a-c66b-43ed-b53f-b5a98fd862fc,Chelsea Brown,28,Nebraska,30k-60k,Excellent,816,A
+6350f1f6-406e-4c25-b7c1-712211f0bc0b,Juan Meyer,54,Wisconsin,60k-90k,Good,701,C
+a568c884-9560-41a5-9851-8979d9d44ea1,Pamela Paul,83,Rhode Island,60k-90k,Very Good,758,B
+18e10ff4-eb60-4a8c-9223-fec2bab1145d,David Contreras,99,Michigan,<30k,Excellent,805,A
+1258e723-a9af-492f-966f-969352c54a50,Kevin Martin,97,New Hampshire,60k-90k,Fair,631,E
+19af9b35-9adb-4dde-9838-25019af6a2bc,Kelly Mendez,60,Utah,<30k,Excellent,843,A
+53dd6abb-8e08-41eb-87ee-18945cbc023b,Dwayne Garcia,29,Mississippi,60k-90k,Very Good,787,A
+45d54b60-8c76-45e1-b367-b0b6d0fc4375,Adam Watson,48,Nebraska,60k-90k,Very Good,792,A
+08b1cda8-3b59-4b5f-a8da-9caabc14066d,Rhonda Gates,57,Hawaii,30k-60k,Fair,623,F
+d9885555-0af2-4acc-8c88-f49d63096d62,Daniel Dean,46,Vermont,<30k,Good,679,D
+597fa555-92cc-4cac-b922-b2be291c5e97,Justin Glover,43,Oregon,60k-90k,Good,692,C
+3cb8ca43-3b58-44a9-851d-0db1e8662b25,Jose Parker,36,Alabama,90k+,Fair,640,E
+6dc8f4cb-fe1d-4c5b-8638-c4477ad4269e,Tiffany Harris,21,Ohio,90k+,Good,710,C
+c9810da8-51a5-4005-9e46-720af335a2b7,Ronald Lyons,23,Ohio,90k+,Good,715,C
+cc6a8a50-c9e8-426a-8789-3c7ac1b22e87,Bradley Yang,49,Indiana,<30k,Good,697,C
+cb7078a5-82c8-42af-b15a-84f41f6bb05a,Jennifer Ellison,78,Texas,60k-90k,Very Good,797,A
+4fb799ad-11b4-465e-a5c1-e9e7cfea294b,Justin Armstrong,96,Nevada,60k-90k,Very Good,776,A
+4343c952-15d5-405b-8be3-c1578b225c32,Jason Cordova,27,Kansas,<30k,Very Good,757,B
+f0ace542-f1b6-4232-8fb8-899b8010fe6e,Erin White,76,North Dakota,30k-60k,Excellent,811,A
+fc32be43-aba1-4f3a-a82a-4dc71419f02c,Dr. Michelle Petersen MD,71,Virginia,90k+,Excellent,847,A
+cc1b72c0-cac5-45a0-891e-60307bdb0dec,Keith Johnson,98,Montana,30k-60k,Good,694,C
+3039299f-ac58-4c44-bd5c-c1678be30b83,Michelle Hopkins,91,Vermont,90k+,Poor,555,G
+b2b4f648-4e7c-414f-8857-0adfbc97ef03,Michelle Little,42,Oklahoma,<30k,Excellent,847,A
+87995edd-9cb3-4b93-8478-3c9e33dc6d9d,Christine Gonzales,67,Vermont,90k+,Very Good,752,B
+84847ae5-fd34-421b-8090-882f94214ef8,Julie Nielsen,81,Wyoming,<30k,Excellent,815,A
+5a115d61-6449-495d-870e-085aa308d3ec,Phillip Wilson,69,Michigan,30k-60k,Very Good,787,A
+f608c9be-ca89-45df-8e68-5e47031c9e93,Laura Page,49,Missouri,90k+,Excellent,815,A
+b98a8884-9138-416a-a9e7-cd1e9f6c1b00,Edward Wilson,36,Illinois,60k-90k,Fair,613,F
+fb9cf587-07f3-4877-8b8a-8619de523f9d,Jessica Shepard,18,Hawaii,60k-90k,Good,696,C
+d2f723cb-9e7c-4fe2-afc0-013537256b44,Brandon Warner,31,Vermont,60k-90k,Very Good,754,B
+de178151-ef3c-413e-a52a-2ca4618d5357,David Atkins,72,Alabama,60k-90k,Fair,605,F
+ee8465bc-20c2-4ea8-913b-4f1ce195902b,Joseph Smith MD,46,South Carolina,60k-90k,Very Good,793,A
+4c3a03d1-4d37-4881-8394-c7cb7f8a511c,Tyrone Anderson,40,Montana,90k+,Very Good,755,B
+dd028b7d-17aa-406a-91ce-38fd5e55bf68,Nicholas Ayala,84,Hawaii,60k-90k,Very Good,793,A
+2faa52b2-fb69-4ad2-aa1f-a95b76888581,Douglas Camacho,77,Mississippi,60k-90k,Very Good,779,A
+1baea534-d723-4c77-bb47-6be2cdc01198,William Powell,24,Illinois,<30k,Excellent,822,A
+e35bdc5f-9f2f-406b-a43d-17b4d8b660aa,Eric Murray,89,North Dakota,<30k,Good,689,D
+34949f5e-81bd-4f67-b034-9cba6e3e969f,Shawn Robinson,49,Missouri,60k-90k,Very Good,789,A
+6cb88230-210a-4349-b4f0-2f7486001cb2,Michael Duncan,33,Florida,60k-90k,Fair,593,G
+a5cb2dbc-4a31-4c0d-9fe6-84101b2ff185,Thomas Neal,76,Nebraska,90k+,Fair,595,G
+11df7bb7-1b1b-4e0a-8657-ef7f8ff85667,Lori Walker,35,Alaska,60k-90k,Good,680,D
+318d98a2-7a31-4352-b96b-9f33cc143c98,Dawn Gregory,77,Louisiana,<30k,Very Good,783,A
+791f27de-66b0-4853-b813-b33181aaa2e8,Gabriel May,85,Georgia,30k-60k,Very Good,782,A
+8b3c215f-d19b-4259-8050-0e9a12b46c58,Nicole Clark,89,Minnesota,60k-90k,Very Good,771,A
+cfe46308-742e-45de-9a62-59b08ee42e7d,Christine Wilson,94,Connecticut,90k+,Good,670,D
+e11680e3-6c6d-46f6-a735-66570aa4adbd,Robert Richards,58,Virginia,60k-90k,Good,739,B
+71d4ca20-93d7-4450-8e84-c0c671a88661,Lori Turner,74,Arkansas,90k+,Good,675,D
+b0a9b551-e0fe-4235-af41-78ff9c6aa9a7,Debra Stewart,96,Arizona,90k+,Very Good,794,A
+6ada3d98-3e80-47b2-b62d-4a8541d30411,Jason Adams,82,North Dakota,<30k,Very Good,770,A
+dc13afae-b89d-4a62-9a12-56db08e2eed0,Kristen Mitchell,72,Maine,<30k,Fair,627,F
+d0c9199e-d06f-46e4-8311-b1d27614c0ee,Natasha Mccullough,88,Hawaii,90k+,Excellent,839,A
+a8f9af46-a5e4-41bf-9679-8923075619be,Natalie Rios,75,Georgia,90k+,Good,710,C
+4adaf862-e360-43b6-8264-c219468ed25e,Christopher Shepherd,38,Nebraska,90k+,Good,733,B
+fba9fffe-f03e-4b61-9fa0-b2e33ced40c9,Anna Branch,78,Idaho,<30k,Excellent,836,A
+69e90b5b-e4bf-4361-aed4-11ee386c69a1,Mr. Erik Brown,75,Wisconsin,60k-90k,Fair,615,F
+1a05f388-9e0d-4e4f-924c-e188a4d30e9c,Kenneth Evans,51,South Dakota,60k-90k,Excellent,831,A
+cb4abfd4-99c2-4607-b383-e0b4022442de,Brian Brown,49,Maryland,30k-60k,Very Good,751,B
+d1c28b21-77b9-41fb-af91-93e9246c9e0c,Thomas Santiago,99,Michigan,90k+,Good,735,B
+ce4dc47b-9561-4de6-be90-097425cd2faf,Jessica Tran,53,Maine,90k+,Good,705,C
+b38ad6a5-b276-40dc-8365-0122ef0c8360,Calvin Chang,84,Oregon,60k-90k,Very Good,765,A
+d815aece-253f-492c-9241-567ad5ffe5d5,Crystal Townsend,80,Washington,30k-60k,Very Good,754,B
+6933849d-fedd-44c2-9a64-fda4e5425429,Miss Stephanie Franklin MD,98,Iowa,<30k,Good,686,D
+9e8b5c57-aaab-4085-8721-b44ce01d1e99,Lynn Watkins,48,Montana,<30k,Fair,586,G
+ef155010-ccfa-4792-93fe-3218d5cfa431,Charles Sweeney,53,Ohio,60k-90k,Very Good,773,A
+23ff04a0-7673-4a0d-8249-3729019b8f25,Sarah Thomas,74,Idaho,90k+,Good,724,B
+b05f1e6b-e901-4816-946f-53e539b43fad,Joshua Fox,27,South Dakota,<30k,Fair,641,E
+d38427f7-47d8-4aae-ae7b-a2c357e1950b,Elizabeth Wilson,54,Hawaii,30k-60k,Poor,576,G
+0f8f4101-68af-49ee-9f50-11e31b5a6241,Rebecca Williams,48,Utah,30k-60k,Very Good,742,B
+4158ffb0-b90c-4a43-8a4f-63fae5ae9ad8,Richard Cunningham,52,Georgia,90k+,Poor,557,G
+daa466db-a88c-4453-a993-065d839e2ca9,Justin Schneider,60,North Dakota,60k-90k,Good,714,C
+7750fffe-c56c-4094-b5a1-e7a48cd92c0b,Gene Curry,58,Mississippi,60k-90k,Fair,630,E
+c5f74baa-82c8-46c0-b878-c5fbd79c4897,Nathan Lin,87,New Jersey,<30k,Excellent,843,A
+76c2f751-354b-4459-a036-3742e7093bfa,Breanna Perry,28,Louisiana,<30k,Excellent,849,A
+08de88b4-c782-4ba8-a3e4-50dc0b4d5fb5,Robert Morris,35,Arizona,<30k,Very Good,751,B
+b0c46762-727b-4329-bfe7-f3da53e14ae0,Mr. Robert Russell,37,Michigan,30k-60k,Very Good,769,A
+42a5e105-6fb2-4c59-85d1-b883130b5377,Monica Richard,47,Montana,60k-90k,Very Good,747,B
+c00dfa89-18eb-4f3f-a639-f793155792c2,Cheryl Dean,67,Washington,90k+,Good,736,B
+e9917a1d-9800-4c37-aaaf-e8c560f2a519,Edward Morris,37,South Dakota,<30k,Good,728,B
+f6f5fb86-644f-4295-b00c-f3c94183cec2,Rebecca Spencer,45,Minnesota,90k+,Good,710,C
+1ad702eb-3ef5-4146-ae91-50573d5a453f,Cory Zuniga,26,North Dakota,90k+,Very Good,784,A
+893e462f-5f70-4089-8e6a-9e753b2d58ff,Michelle King,71,Rhode Island,90k+,Very Good,740,B
+a9ed0e9a-6781-4bb7-8f3a-a9158a673c34,Jason Martinez,70,South Carolina,90k+,Fair,581,G
+a5b943d7-91a2-4ec4-981f-77d4d26fbe23,Alyssa Elliott,60,Oregon,30k-60k,Very Good,783,A
+9a2cb630-a28f-4f70-b1eb-5fe2a9f4c898,Kenneth Perry,87,Vermont,30k-60k,Good,696,C
+df4b8025-bb86-4920-8ec5-800ed78e0331,Alexis White,77,Pennsylvania,30k-60k,Very Good,764,A
+621dbb8c-8458-4993-8cc6-f1897d3d8573,Mary Williamson,71,Arizona,30k-60k,Excellent,837,A
+95f3f01f-6ebe-4a14-9aef-2b61d9dd71d2,Kristen Garrett,25,Missouri,<30k,Good,682,D
+d20788bc-2c56-48c9-bca8-b6f2a5602dcf,William Vaughn,44,Mississippi,<30k,Good,711,C
+49c704ef-1347-4362-b06b-0f85a72ddcce,Thomas Nelson,71,Vermont,30k-60k,Poor,485,G
+f71046cb-b08a-4930-84b8-7d08f382ac66,Joan Arellano,67,Pennsylvania,<30k,Good,703,C
+e579facd-c2f8-4818-86ca-ddb7a1fdf8c9,Joseph Young,92,Pennsylvania,60k-90k,Good,693,C
+10e59b0c-7961-4a28-ae79-c6ba66b9fea4,Christopher Gutierrez,20,Pennsylvania,30k-60k,Very Good,775,A
+3dc5ab37-ae06-466a-8ee2-3c16522c0efb,Anne King,91,Oklahoma,<30k,Very Good,756,B
+d642db33-faf9-4258-bfae-ceb2d3d62f8e,Corey Perez,66,Alaska,<30k,Very Good,755,B
+70387ce3-73bc-4915-b986-4b3caf5073a1,Michael Harper,79,Vermont,90k+,Very Good,757,B
+ad32235e-7764-4ad1-b104-8b77297648ed,Allen Johnson,18,Montana,30k-60k,Very Good,770,A
+3acb6474-d5e1-4de8-a193-af9ba4e6ac8e,Antonio Taylor,63,Pennsylvania,90k+,Good,713,C
+20cff7d9-9848-46a2-92e4-f1b1a406a191,Laura Rodriguez,56,Colorado,90k+,Fair,626,F
+50ae0ba5-fe9a-4b99-b8a4-5515d3a422f9,Angela Chapman,67,New Jersey,30k-60k,Fair,603,F
+4df4c91d-f30d-4961-a369-47c738394474,Geoffrey Burton,71,Utah,60k-90k,Very Good,771,A
+e3479729-443a-4405-aed5-706d6c147baa,Mrs. Brittany Molina DDS,86,Alaska,90k+,Good,724,B
+781ce8b1-651b-4355-8d84-aacd8abb6fb8,Diane Miller,87,Maryland,<30k,Excellent,813,A
+5a5a8538-8e7b-4c1a-a764-ef2c7836f6eb,Jessica Wright,95,Virginia,<30k,Good,723,B
+2c564017-2945-44f2-b211-9342c2c77f17,Lauren Murphy,46,Georgia,<30k,Good,717,C
+f9d8dc1e-f851-40a6-8819-b71c0f034290,Omar Dorsey,80,Kentucky,90k+,Good,716,C
+1d13801e-9bdd-4e52-8b22-5f67bf272380,Stacey Hernandez,46,Kentucky,60k-90k,Fair,631,E
+7f5c81a0-1ff1-4d4e-949b-fe3e09dd3beb,Jeffrey Hardy,52,Indiana,30k-60k,Good,705,C
+5504041d-6dfd-4954-9907-0c30ad17eafe,Kenneth Alvarado,73,North Carolina,90k+,Good,727,B
+1e3b95aa-ec11-4ad8-9bbb-6e7d50acd373,Larry Martinez,80,Connecticut,<30k,Fair,603,F
+481d0d0d-5c15-4f0d-beac-f6b3260734b1,Nicholas Lopez,21,Nebraska,<30k,Very Good,776,A
+2c7d4f2f-ac0d-4934-9784-f4952b3556b4,Justin Burgess,67,Nebraska,<30k,Excellent,808,A
+849c2b40-9f3e-4dd9-bbc9-aef2ec05ff0a,Michael Robinson,61,Florida,60k-90k,Excellent,836,A
+d4a43b2d-7d01-4dcc-8aa0-0c2f775e5fd1,Ashley Nichols,69,Georgia,60k-90k,Very Good,783,A
+16b76ea3-40be-4e02-83b2-a7dc673d751b,Jennifer Sanders,39,Louisiana,<30k,Very Good,754,B
+d39b0d00-ddc3-4bdb-a4d4-5499c698ac79,Paul Tapia,77,Michigan,90k+,Good,682,D
+7e50fce6-c985-4d55-bfc2-994ec4f29463,John Gonzalez,34,Virginia,30k-60k,Good,704,C
+8caea973-5803-48f2-967f-8a35fb1a65a9,April King,97,Nebraska,60k-90k,Fair,610,F
+bf835ea2-3e70-47be-b6ad-175468286a29,Gary Sims Jr.,86,New York,60k-90k,Good,725,B
+912b9953-4aff-4c65-bfc9-d3410eb83898,Robert Sanchez,21,Virginia,60k-90k,Fair,628,F
+59c51f74-1960-4450-95a0-7ee2d667f0f2,Ann Shepard,68,New York,60k-90k,Good,695,C
+33d02dab-c1d7-4a7f-91e6-bb4462b85031,Andrew Ruiz,93,Missouri,30k-60k,Very Good,749,B
+58b5a219-c911-48c0-bf46-cb28b6ee314f,Bill May,90,Alaska,<30k,Very Good,791,A
+ca91c960-1345-4b06-94c5-c2220a91abe1,Scott Johnson,21,Delaware,30k-60k,Good,689,D
+c901813a-f89c-4821-9a52-1b54d5300053,Jacqueline Warren,28,South Carolina,60k-90k,Good,730,B
+323023c2-cf93-4456-af6f-26f9d910baba,Kaitlin Cox,72,Wyoming,<30k,Very Good,791,A
+c5f9383c-8191-449b-9057-2dfd298ff813,Brett Morris,35,Indiana,60k-90k,Excellent,800,A
+635072ac-476a-4d27-b3fd-14f08ea48697,Ruben Fuentes,77,Maine,60k-90k,Excellent,811,A
+81478351-2789-4d3d-9929-4e3a698182f2,Bonnie Davenport,41,Connecticut,30k-60k,Fair,633,E
+15ae9074-d17f-456f-bf9f-2f615972b994,Brian Morgan,24,South Carolina,90k+,Fair,643,E
+320fbaf0-fdcc-4962-bd3e-a471f33d842a,Steven Wilson,51,Idaho,60k-90k,Good,687,D
+c79c3981-9a8c-4d8f-8823-ad925ae8c8c6,Julie Morton,66,Pennsylvania,90k+,Fair,660,D
+a27e39a5-c771-4083-a6c6-458821cb1d32,David Warren,59,Missouri,60k-90k,Excellent,833,A
+a6c37fbf-0af0-4d2f-8654-c223345ce718,Michelle Jones,45,Oregon,<30k,Very Good,774,A
+0df8fba2-4201-4da2-be87-0ba3a0ff1b1e,Michael Maxwell,76,Rhode Island,90k+,Excellent,846,A
+259b06a1-1d6a-49a2-8293-45b0e29c9055,Jacob Bowers,59,Illinois,<30k,Excellent,820,A
+73cea727-9316-4ed1-868d-1dc24840068e,William Allison,61,Washington,30k-60k,Good,732,B
+b35c643b-d9cc-4fbe-9474-8d9d5181964f,William Weber,66,New York,30k-60k,Fair,618,F
+bc407373-23f9-4a56-b0e6-6f4aa481df5a,Patricia Allen,53,New Jersey,60k-90k,Good,702,C
+2bfad1f3-370f-4a62-85b8-679095216756,Michael Dunlap,71,Colorado,30k-60k,Very Good,775,A
+b5714889-9838-4752-ae97-5c25468dbce9,Thomas Werner,50,New York,<30k,Very Good,794,A
+3ac1431c-2507-48c8-a05f-04114e630e16,Julia Chavez,28,North Dakota,<30k,Good,676,D
+f7903deb-7485-4852-8029-6c5737810f75,Michael Craig,78,Nebraska,60k-90k,Good,720,B
+d3e90569-dd95-475b-b37e-79d4396f75fa,Michael Bell,20,Rhode Island,<30k,Very Good,746,B
+e88d35f5-b085-4099-8501-beaabc0acfcc,Mary Nelson,87,Utah,60k-90k,Good,690,C
+e0efec7d-74be-4c8b-a8f3-8399b1b67c59,Monica Perez,24,Hawaii,90k+,Fair,587,G
+80ab5a37-1cc6-4988-ab17-e766beb7c81a,Pamela Mcintyre,62,West Virginia,<30k,Very Good,753,B
+e9c4cddd-db57-4ce9-a3d6-fc1be5aa2092,Jeremy Sexton,46,Hawaii,30k-60k,Very Good,792,A
+3fc0dda8-ff4b-4f60-b103-a979897c88a0,Vicki Bowers,26,Connecticut,30k-60k,Good,702,C
+94a833fb-2a41-4fb0-b522-7b5c38c475b0,Katrina Delgado,23,Idaho,60k-90k,Poor,543,G
+5d308bb9-ef11-4cd4-b055-9e1d898bd3f1,James Leon,21,Ohio,90k+,Good,682,D
+f3dfd9bd-f61e-474e-b855-4847d081b4c2,Timothy Sandoval,49,Oregon,60k-90k,Good,727,B
+8d478198-151b-4c43-b9c8-f9d6cb73c5de,Matthew Robinson,43,Minnesota,90k+,Very Good,787,A
+f41a8e92-d3e0-4e2a-b604-486914b6e364,Tonya Harvey,20,New Hampshire,30k-60k,Very Good,761,A
+24eb2750-52d9-461d-96b2-15670c86866c,Annette Callahan,97,Connecticut,<30k,Very Good,756,B
+7291eae9-02dd-4f23-bc5a-a164c2aa12e2,Vickie Lynch,37,Michigan,<30k,Good,716,C
+6212e7b2-a2e6-441f-a98c-ed6d93dc9e48,Connor Wheeler,48,Illinois,60k-90k,Very Good,763,A
+490cc65e-9df2-45e5-9ad5-2feccd2db1a5,Abigail Brown,34,Iowa,90k+,Very Good,775,A
+88e9b30f-799d-4d8e-b9c2-68e438cc024b,Samantha Hopkins,78,Idaho,<30k,Good,702,C
+0cd7bfa2-9be5-4520-9039-d46acd08e151,Michael Bailey,32,Montana,<30k,Very Good,762,A
+b797d573-0486-4220-8741-3e370218ee9f,Brenda Sharp,90,Virginia,90k+,Excellent,801,A
+93c807e2-e5f0-4bad-9413-a3053f19fccd,Tara Ali,45,New Jersey,90k+,Very Good,766,A
+b6746e5e-e07f-4411-9186-9767d1cb0466,James Miller,77,Alabama,30k-60k,Very Good,747,B
+7f6c982b-f5e6-4405-a776-6d450591ecf5,Amber Terry,50,Oklahoma,30k-60k,Very Good,762,A
+6e8843e4-6326-4bbd-874f-dd1f2644e037,James Bray,65,Massachusetts,30k-60k,Good,695,C
+b59feda6-3457-4a8b-a5ce-cc95c2ff4480,Joe Jacobson,39,Minnesota,90k+,Good,738,B
+4332e6dd-362d-46bd-b2e6-1d5d12a25224,Ms. Shannon Johnson,95,Hawaii,30k-60k,Good,692,C
+d31cf869-62dd-4bf1-ae8b-872c35e2a79b,Gwendolyn Mason,95,South Carolina,<30k,Very Good,789,A
+f6aa183d-b197-46ea-9949-19d3e97d48d0,Ryan Hardy,32,Wyoming,60k-90k,Very Good,758,B
+ff357b3f-0c66-42e2-bc8a-2c9313c59655,Joseph Norris,38,Texas,30k-60k,Good,715,C
+a591874c-4656-4075-89c2-43ca47e0b43b,Robert Ramirez,57,Texas,90k+,Excellent,820,A
+21b52e72-8068-4731-9ec1-58dc3648506e,Alicia Cardenas,31,Hawaii,<30k,Poor,561,G
+a2a98ced-c4b2-44ff-81b2-2889c73cf5fb,Bruce Atkins,92,Hawaii,60k-90k,Good,732,B
+7865468b-efbe-48f4-b49c-52830de0b504,Eric Banks,21,Rhode Island,30k-60k,Excellent,849,A
+4ecdc16c-605a-4b46-9c37-9fa1d2c0e644,Sharon Hampton,57,Connecticut,90k+,Fair,637,E
+bbcca7d0-f8f7-4b8b-9f6c-a516ba4e6c16,Thomas Bailey,91,Alabama,30k-60k,Excellent,805,A
+22d1d59b-3854-4722-9bec-cb01406d9e0e,Donald Williams,66,Montana,30k-60k,Fair,628,F
+ed004eeb-afb6-46c2-853e-cc8f16758fa5,Carlos Fleming,68,Florida,30k-60k,Excellent,839,A
+bb5cdbb0-d7e8-422d-8730-f1a6c57ee57a,Maxwell Williams,43,Washington,90k+,Good,706,C
+09b01655-f36b-4995-b323-d324ae08a6d7,Alicia Mcdonald,27,Wyoming,30k-60k,Very Good,769,A
+be06d366-b513-45dd-bd64-c658455c6dcd,Bradley Martin,93,Hawaii,<30k,Very Good,780,A
+4c707ebc-2160-47c0-90d6-1c5112607d9d,John Booth,98,New York,60k-90k,Excellent,809,A
+1cb17a3f-8a94-4410-a0ce-36660dd99391,Jacob Vaughn,49,New Mexico,30k-60k,Very Good,795,A
+827c8f0c-63c0-46ac-a34f-9f9b6d546913,James Patrick,31,Nebraska,90k+,Good,691,C
+eca552b6-55db-40b4-b5e7-3216e2e7a2c5,Dustin Ferrell,56,Nevada,30k-60k,Very Good,780,A
+ced12e7a-be2c-4472-98a2-16f2a1283687,Nicholas Branch,94,Hawaii,<30k,Very Good,791,A
+8f73a6ea-b98f-480e-aff1-f6fbe9542ef1,Stephanie Watts,33,Florida,30k-60k,Excellent,821,A
+11d6cae7-f20e-41d3-befb-55deeccd1e33,John Huffman,90,Illinois,30k-60k,Excellent,826,A
+54e11a87-65d1-4b5c-9361-10b8c7ff8a05,Taylor Baker,23,New Jersey,90k+,Very Good,780,A
+5e7934af-db8e-4a76-9251-392df77543f3,Colleen Klein,62,Georgia,<30k,Very Good,779,A
+1cc950c2-06fd-44ee-892a-da50bdd7364d,Laura Pitts,86,Alaska,30k-60k,Very Good,776,A
+c74cb055-9a24-43b0-9e02-0def47827c45,Dr. Jeffrey Nichols,72,Maine,<30k,Fair,631,E
+e7ea07e7-dc89-4cca-a09b-0a887efca4f2,Heidi Hernandez,65,North Dakota,30k-60k,Excellent,804,A
+3ca75ac7-2364-4440-8996-cee8bf62456d,Amy Williams,26,Indiana,30k-60k,Good,680,D
+36587cbc-5dfd-4f27-88a7-b929792bfb51,Sergio Henderson,82,Kansas,30k-60k,Very Good,750,B
+a84fc22a-96ec-459e-8996-5588e70196de,Timothy Mitchell,61,New York,60k-90k,Excellent,821,A
+c0d236bb-f6e6-4553-a192-ad8c9a5c8c94,Jeremy Espinoza,19,Wyoming,<30k,Very Good,754,B
+a1d1a23d-33a3-4394-870e-05f96ee95e86,Erica Hawkins,71,North Dakota,30k-60k,Excellent,820,A
+5b13a0d9-fb07-494d-ae68-197cc35a9c24,Courtney Kirk,80,Alaska,30k-60k,Excellent,820,A
+8a9da575-8e26-4e43-bc90-df681997f1e2,Megan Dickerson,31,North Dakota,60k-90k,Fair,663,D
+a9d46810-9ddc-4665-801a-bbaec5bab7eb,Melissa Prince,73,California,90k+,Very Good,758,B
+e05cafe0-aedc-4510-a88a-a2f982a2e0d6,Erica Daniels,64,Arizona,60k-90k,Good,704,C
+8611abf6-ccbf-42ba-b1bb-5a7cf60f4f6b,James Lamb,99,Missouri,30k-60k,Fair,657,E
+291059a2-f164-482e-a03b-8aeceda31bf1,Jamie Brooks,76,Maine,60k-90k,Good,720,B
+750404cc-d9ee-41aa-b0e2-c381153f21f6,Tonya Hernandez,37,South Carolina,90k+,Very Good,757,B
+94a8c596-cdfb-4e78-91da-3104fe4c70ad,Douglas Perez,73,Louisiana,<30k,Very Good,796,A
+cbebd51c-2e73-4998-9db9-9c653971b8ee,Amy Webb,40,Oklahoma,60k-90k,Fair,636,E
+74677c47-a7f8-4f94-bf7c-c1399db8186d,Julie Baldwin,84,Illinois,30k-60k,Fair,626,F
+42a9db16-a218-4639-8430-a36f976eb097,Joseph Hughes,52,Washington,60k-90k,Good,736,B
+4e39fbf7-c33a-4724-92c0-b18225fa9f9a,Sarah Brown,96,Alaska,60k-90k,Good,727,B
+aad4f0a5-b9fb-4860-9b0e-56268a339068,Sean Murray,86,Oklahoma,<30k,Excellent,826,A
+bf7bf642-2207-463b-8fea-08bf6619f5e9,Patrick Williams,79,Maryland,<30k,Good,691,C
+331477d8-bb2c-470b-a6f8-33cc7310acfb,Christopher Roman,77,Texas,90k+,Fair,603,F
+ec6e97be-7454-4520-acc2-b26d1165e534,Matthew Murphy,73,Texas,60k-90k,Very Good,794,A
+6a17b093-eacc-400f-b529-24996926d656,Brian Nunez,93,Wisconsin,30k-60k,Very Good,741,B
+de5b645d-ddcf-45b2-97fd-92802421b5bd,Sheri Mason,52,South Dakota,<30k,Good,686,D
+ba2f0047-80f1-4048-b0c3-1cc08f78cace,Joseph Bell,59,Nevada,<30k,Fair,610,F
+d3a95854-7a40-4fea-b74e-eb6adf0189d2,Jose Odom,49,West Virginia,60k-90k,Very Good,782,A
+472f4259-0040-4d61-8226-efebcc9140b2,Donna Wright,29,Wyoming,30k-60k,Very Good,756,B
+6c09bbfb-e219-4eb6-bff9-1727bc90eaa9,Lisa Mueller,53,Arizona,90k+,Good,680,D
+09735c9b-944e-4700-8c32-392639f7951f,Robert Dawson,75,Ohio,<30k,Very Good,753,B
+1782cc76-9c3f-49ef-8a2c-db3e1590fbfc,Brian Harris,49,South Carolina,<30k,Very Good,750,B
+4f894c9e-47aa-405c-80ba-7b1b59146d5c,Jamie Mendoza,77,Wisconsin,30k-60k,Excellent,825,A
+da2d7eaa-4bb5-48f7-bbdf-5c6deffb6ebd,Toni Yates,90,New Jersey,30k-60k,Good,683,D
+6466768f-67ac-49fd-bd1b-eca219768408,Stuart Cross,96,Georgia,30k-60k,Good,682,D
+a356789f-19d2-48d9-bc01-af8f78e6c94c,Peter Stewart,66,Arizona,<30k,Very Good,744,B
+8d04b915-493b-4205-aa91-ad2e64dd80da,Samuel Holland,61,Nebraska,<30k,Excellent,830,A
+d70fdfce-abde-4803-a006-5d8fbd19a29a,Stephanie Moore,21,Florida,30k-60k,Excellent,835,A
+33bc45c7-53b1-4a58-b7e7-c82273ee5f25,Connie Barrett,81,South Dakota,30k-60k,Fair,586,G
+e21d79c8-ca5a-4be1-8a4a-d64d767a6b1c,Tina Ward,59,Oregon,30k-60k,Excellent,801,A
+bf2e5633-fec8-42a1-bc62-346ef5f2bac3,James Hunt,41,South Dakota,90k+,Very Good,789,A
+d37690c2-827e-4660-ac90-3a6f9fb994da,Rodney Payne,80,Kansas,<30k,Very Good,765,A
+519cc130-0800-4fbc-bda3-4c4458cb0dc4,Jessica Young,45,West Virginia,<30k,Excellent,833,A
+212860e9-0195-488f-b925-57f512df3303,Jennifer Cummings,63,Rhode Island,60k-90k,Very Good,788,A
+e4752ae9-3a5b-4208-a0e9-25cee69014d3,Nicole Pratt,51,Massachusetts,90k+,Good,680,D
+82b065c4-c04a-4aa8-b78b-933f7a74d192,Kyle Horn,61,Montana,<30k,Excellent,806,A
+c9d7e8f5-a481-4fff-a377-ae2f1382e77c,Haley Winters,53,Wyoming,90k+,Excellent,816,A
+12f0fbaf-ef01-4d17-beae-69d83692db92,Maria Maynard,94,Ohio,60k-90k,Good,689,D
+d9e79a8b-6731-4b15-b07a-9a24db12a244,Tammy West,53,Florida,<30k,Good,680,D
+1020cb35-facc-4ff5-82ce-62508f3de1b3,Brenda Lewis,89,Washington,60k-90k,Good,719,C
+e04358cc-1f26-4cc7-9b73-afa92a1e6803,Leonard Warren,19,North Dakota,60k-90k,Very Good,759,B
+a406229b-595a-4cbb-bdb8-b90cec5f4d2e,Larry Lambert,84,Connecticut,90k+,Fair,609,F
+4a1439fa-eb30-430e-a53b-7fb5c04d6595,John Mitchell,42,Oregon,<30k,Excellent,815,A
+0687f663-ad62-4c1f-bc1c-b57779e7d45a,Sheila Burnett,28,South Carolina,<30k,Very Good,787,A
+d3d7c184-3362-4114-9e80-fe1ef8b974a2,Mr. Kevin Brown DVM,48,Indiana,<30k,Excellent,818,A
+e6fafb1a-b4ff-4c4f-a711-21bc1426202f,David Davis,70,New York,<30k,Very Good,768,A
+786cc2f8-5fba-4898-ad2f-39d717c9e291,James Hughes,80,California,60k-90k,Poor,364,G
+0fa6dd49-a0b6-4f9d-964d-b058f57b7f4f,Donald Martinez,89,California,90k+,Very Good,748,B
+657b6662-4396-46f0-802f-6e43020d8d7e,Eddie Mccormick,48,South Dakota,90k+,Excellent,833,A
+13c0ca71-52fe-4c48-8ef7-b329b5868cd1,Kevin Serrano,78,Alaska,90k+,Poor,387,G
+df1316ec-c85c-4868-adfc-ed5c7e722ab4,Travis Davis,80,Montana,90k+,Excellent,801,A
+261eabc1-cb7d-4ac3-a6e0-32d490763dba,Thomas Hernandez,75,Virginia,60k-90k,Fair,584,G
+937d548e-c78f-4c1a-adc9-059a9671446a,Ruben Donaldson,20,Oregon,60k-90k,Good,715,C
+ee7c1eeb-b4c3-4a15-b387-790a44960af2,Rachel Fisher,29,Maine,60k-90k,Excellent,820,A
+ab8c8919-78eb-464f-bf9b-14c29ad3dd43,Lisa Horn,55,Idaho,30k-60k,Good,730,B
+e142a323-82b7-48f7-a118-555cbfb2a8dd,Alyssa Long,46,New Jersey,30k-60k,Excellent,829,A
+79c1a162-e45d-4bf5-a67f-534d7fb4d826,Michael Powers,69,West Virginia,<30k,Excellent,834,A
+4cb7e511-c37e-4c0f-b296-1abbd0c1a33d,Kelly Wong,49,Idaho,60k-90k,Excellent,817,A
+ccdf0c2c-2f88-4f87-859f-6e099153b159,David Ferguson,57,Texas,60k-90k,Good,726,B
+04b43aae-4ced-491e-829e-e2b9238bed83,Angela Young,92,Kansas,<30k,Excellent,808,A
+6c22cb19-dbe1-401f-bfb4-940b8e600f19,Eric Adams,65,Louisiana,30k-60k,Excellent,844,A
+6c45e24b-f247-4961-982f-074a93826554,Natalie Woods,78,Georgia,<30k,Fair,649,E
+2c3f913a-f1c5-4be0-9806-96150a27b5a5,Tammy Parker,88,Delaware,90k+,Good,692,C
+2bef99e5-d6a5-45fd-964a-db06dfddf039,Rodney Mcdaniel,85,California,90k+,Fair,655,E
+0304a221-b2e8-404a-8b76-7562ff694844,Crystal Spencer,62,Louisiana,<30k,Very Good,778,A
+26e0988d-cf1d-4869-9bba-a0f67e84f802,Denise Mccormick,72,New York,30k-60k,Very Good,769,A
+c0af10b3-31ea-4e4f-9aad-700c663f5978,Brittany Morrison,88,Oklahoma,30k-60k,Fair,660,D
+3ae4f55a-8161-4119-9a1f-090b09f16f23,Michelle Powers,60,Michigan,60k-90k,Very Good,787,A
+71f15989-7166-4936-9dc8-140ab6b103a0,Kendra Henderson,63,Kentucky,30k-60k,Very Good,780,A
+a2d44ab2-e3da-40a0-b232-90434c5cfaaf,Erika Jones,76,North Carolina,90k+,Very Good,796,A
+0eba01d7-a471-44f7-93b8-ba8d23b79628,Maria Garcia,52,Vermont,<30k,Good,725,B
+f5a5a6b3-b029-436f-8ac7-9698e4ff9273,Stephanie Anthony,57,Mississippi,90k+,Fair,647,E
+4c36ae6a-fb98-455d-afbd-46fd4bc1e350,Katherine Miles,50,Arizona,<30k,Fair,661,D
+4fc2687a-8b49-487b-bf26-2c44ceb96142,Wendy Brown,47,Indiana,30k-60k,Good,738,B
+1815f0c1-beb0-4b33-b21a-816dc7e092b7,Elizabeth Wilson,33,Connecticut,60k-90k,Fair,619,F
+7d4b40aa-610c-411d-927e-1f4a04940cde,Michelle Pope,42,Wisconsin,30k-60k,Very Good,798,A
+b64b4236-4a67-42eb-9f2e-8db6754b40ce,Nicholas Chung,58,Mississippi,30k-60k,Very Good,762,A
+f8cf2698-67ce-425b-b977-19cb23e1dd45,Shelly Smith,33,South Dakota,30k-60k,Good,731,B
+3d67d1a2-30fd-42b3-aba4-d84b7f846d21,Dawn Norris,86,Washington,60k-90k,Poor,576,G
+16a1faed-09ca-41ec-a44f-2a8e4bbcc693,Ricky Torres,41,Alaska,<30k,Good,699,C
+2da1f2c2-ddc9-4a6e-b49a-f5bfc1d3f147,Peter Davis,42,Wyoming,30k-60k,Fair,591,G
+b99d1c2a-67aa-4512-9c3e-c509b8660bec,Shaun Peterson,45,Indiana,<30k,Excellent,828,A
+8beaa408-fee0-4bd3-885f-330521078173,Jerry Smith,79,Alabama,30k-60k,Very Good,759,B
+d88f5336-7cba-4c46-b639-4efbd8a3f92c,Brittany Daniel,53,Indiana,60k-90k,Good,716,C
+c15a8125-9093-4ae0-af5f-d68ccd131bbb,Cynthia Dunlap,93,Delaware,<30k,Good,722,B
+a3704e25-6101-4b6e-ac0d-a466674ea082,Bobby Gutierrez,85,Kentucky,90k+,Fair,613,F
+10b9f1af-8071-43e3-a788-afdd49ad3be2,Lindsey Romero,94,North Carolina,60k-90k,Excellent,809,A
+494bae8f-2e34-4a8f-b40a-b9ce28a58a12,Carl Brown,54,Minnesota,60k-90k,Fair,618,F
+371997be-081a-474d-86a3-f23826e2efe6,Miss Taylor Leon,30,Florida,90k+,Good,671,D
+b930e828-413c-4fdf-a616-8730a5cc5e04,Leslie Thomas,42,Louisiana,<30k,Good,670,D
+458854ec-0f44-4755-b740-366205a6e254,Nicole Thompson,55,New Mexico,60k-90k,Good,736,B
+1f21e708-b3cc-4c6d-88cf-f0983d35dd33,Dana Scott,47,Ohio,90k+,Excellent,848,A
+02a4deab-a357-401e-b9f1-918536df351a,Gregory Clark,64,Minnesota,90k+,Excellent,808,A
+b3ae1d60-73cd-4e4c-b174-77245bc83109,Rachel Thomas,40,Texas,60k-90k,Very Good,762,A
+42d720ba-3f05-436a-a5dd-4ef4e5191a4c,Daniel Reid,56,Alaska,30k-60k,Very Good,758,B
+358e9c73-922e-41f6-8736-90844b5c6f5b,Samuel Lawson,19,Missouri,<30k,Fair,640,E
+95437dda-8632-4c52-91f5-1895eab26ec6,John White,86,Colorado,90k+,Very Good,774,A
+a5badb5d-b19f-4624-af35-68473b9f0811,Hannah Wheeler,34,Nebraska,<30k,Very Good,740,B
+6648b984-2008-4716-a2eb-7167c3a33de4,Jennifer Jackson,53,Idaho,90k+,Fair,668,D
+dabc6822-7313-4efb-9b87-8abcb64c092d,Nicholas Walker,23,Indiana,60k-90k,Good,732,B
+f7f7526b-4ab6-4704-ac16-a61e0ac63fb4,Anthony Fitzpatrick,24,Utah,30k-60k,Good,731,B
+62a88397-d4c6-4eaa-8a33-e3dbe5727d70,Jennifer Baxter,88,Ohio,<30k,Very Good,759,B
+d9aaa1f5-b828-44e0-bb12-d4a822d75b95,Matthew Jones,55,Connecticut,<30k,Excellent,800,A
+768a170c-7087-4214-b1ae-a303ca0d6be8,Kenneth Schwartz,34,Iowa,90k+,Very Good,789,A
+205df86a-67e5-4f3c-8ddf-c81e59eff825,Kim Smith,99,Mississippi,30k-60k,Good,725,B
+5b9f0b5e-b103-4c54-9201-8d4c062b61c8,Brittany Nelson,80,Hawaii,60k-90k,Good,707,C
+f6f5252d-dcc8-4fc0-914a-932d546a91c3,John Johnson,31,Arkansas,60k-90k,Excellent,838,A
+a5a85e85-be9b-49e2-926e-ee8966158546,Joseph Phillips,19,Oklahoma,<30k,Fair,609,F
+361dfa5c-1aaa-4081-a84b-cfccaa0d2b3d,Mrs. Jaime Lopez MD,91,Pennsylvania,60k-90k,Fair,580,G
+14f3f844-2972-438e-858e-c03ac47cb84a,Jennifer Ayala,54,Missouri,60k-90k,Very Good,775,A
+f80ec4d0-accb-41f3-a050-3bed05366403,Steven Martinez,78,New Jersey,60k-90k,Good,717,C
+ff1be868-ff7a-430b-bb15-813350504c89,Christine Gordon,79,North Dakota,<30k,Good,694,C
+3be4e48c-5123-4869-af88-792207af7ef6,Roy Holmes,74,Delaware,60k-90k,Very Good,766,A
+53a199d9-b1f5-4968-9bb7-444a269c76d0,Cindy Butler,61,Maine,90k+,Good,725,B
+1b240b44-fcf6-4cdb-81b0-9d089ada3ee2,Elizabeth Baker,41,Louisiana,30k-60k,Very Good,765,A
+7aa9a887-0673-450c-a8f9-76bedbbaa8b2,Dennis Garcia,24,Nebraska,90k+,Good,701,C
+d6135509-d3b8-46a6-9b81-404ce05d0c3a,Jennifer Garcia,50,Tennessee,<30k,Very Good,750,B
+5f7d1e28-635d-4807-9582-b3e6e1928d8b,Lisa Waters,79,Missouri,90k+,Very Good,785,A
+1d66d7b4-3098-4114-9d9b-6511bb050783,Michael Harvey,32,Arizona,<30k,Good,719,C
+082b0dde-3c9d-4aea-bab1-10837f11b19c,Ricky Gonzalez,26,Kansas,90k+,Excellent,824,A
+d6d3d5f5-ff67-442d-9e8b-7b4cfaf1fa07,Lisa Shelton,69,Texas,90k+,Poor,412,G
+8eeb1b16-d25b-4656-8816-80ba4e58575a,Danny Gonzales,80,Florida,30k-60k,Excellent,816,A
+bb042387-2142-4364-8edb-1d4a0570feb6,George Spence,27,Nebraska,<30k,Excellent,805,A
+5ba11679-2c62-4457-934a-fb8d313b852e,Matthew Hart,91,Washington,60k-90k,Good,724,B
+be4ae1cc-3d54-43bd-b2f6-ac327799edea,Frank Kelley,98,Missouri,60k-90k,Very Good,780,A
+f173028c-bd98-4123-ab26-7ed2fd2161a8,Heather Gonzales,24,Delaware,<30k,Fair,610,F
+7e2b07f8-c4a9-4970-b371-9c7a653fe1dd,Edward Blake,37,South Dakota,90k+,Good,736,B
+545cd141-aaaa-4b55-890d-d4fd1ecb7767,Anne Brewer,37,West Virginia,60k-90k,Very Good,788,A
+e48b5bf5-dc17-4a75-b2ac-4de70d22771a,John Clarke,90,Minnesota,60k-90k,Very Good,791,A
+b9dc28e1-dafd-4658-8a3c-693035d81eb6,Tina Turner,56,Hawaii,30k-60k,Very Good,798,A
+f3e96afe-c86e-4077-af47-7999caaedc70,Kristy Ewing,28,Rhode Island,<30k,Good,704,C
+8e0a197a-4f16-4c19-bf26-440d2b3a3a4a,Erica Parker,49,Utah,90k+,Good,706,C
+ab57be55-32df-4151-a1fe-7533d259e077,Elizabeth Gray,33,Wisconsin,30k-60k,Good,738,B
+86ffb750-2db3-46dd-ba6f-e1be77339151,Tiffany Lin,89,Arizona,30k-60k,Very Good,791,A
+85bf6045-4600-4a58-80f0-c0f6c59f4e44,Cassandra Chung,71,New Jersey,60k-90k,Fair,614,F
+4ceb08c2-003c-4de1-b099-e9cd78be527b,Patricia Robertson,95,Montana,<30k,Excellent,826,A
+5d7f5ee7-f7e6-4046-b372-8a072448db06,Nancy Little,94,Illinois,30k-60k,Poor,396,G
+8a54039a-4a24-40ba-89e0-29e1467af435,Peter Coleman,97,Missouri,30k-60k,Good,678,D
+2a637e40-0e8b-4ba6-b7c5-df13425135b1,Spencer Ellis,46,Florida,30k-60k,Good,693,C
+327f13a5-e692-4c5f-8f1f-ad8275c77a8e,James Ramos,84,Colorado,<30k,Good,687,D
+7f3bfc5e-bb35-4f9e-ae97-32ac4586692a,Alexis Walsh,66,Illinois,90k+,Excellent,818,A
+16d59fb6-f6de-46ea-9a2c-24ba22652466,Lindsey Mullen,75,Missouri,30k-60k,Good,684,D
+3e5c21d7-2ab3-4607-89e8-966b6e09feed,Michelle Paul,74,Arizona,90k+,Very Good,780,A
+d013c00b-f00b-4f03-af47-8fcf7f6f1cd4,Teresa Nguyen,56,Rhode Island,30k-60k,Fair,638,E
+900374c9-475c-4715-b54b-d00dd725d67c,Tanya Ferguson,93,Idaho,30k-60k,Good,727,B
+4ca1a4c3-e639-4e2e-8bed-d1f38fa53ae5,Allen Woodard,72,California,90k+,Excellent,817,A
+f3437536-0f78-4242-b756-b4ad0ee220c9,Katherine Carter,57,Pennsylvania,60k-90k,Fair,669,D
+89ef09aa-057f-4592-8ecd-54a258922961,Karen Bernard,90,Missouri,<30k,Very Good,779,A
+f4d13d83-88dc-4df0-a5b2-d40673e4a3cc,Denise Roberts,97,Alaska,<30k,Poor,551,G
+a0264cf6-4e81-4b9c-b7eb-df3d8e3e3e39,Barbara Russell,25,Maryland,<30k,Good,694,C
+c66955d6-f94d-4a84-9c0d-f5902d1a38f6,Alan Blackburn,96,Idaho,30k-60k,Excellent,820,A
+6697c4a1-63c1-45ea-a54a-4cabe7af14de,Alexander Warren,30,South Carolina,<30k,Excellent,801,A
+c4445fac-6a91-4c7a-8428-adcb30f04ac8,Michael Hester,44,Montana,<30k,Good,689,D
+6773a09a-6706-4166-93e3-ced1b6b637d8,Benjamin Clark,98,Georgia,90k+,Good,676,D
+64b1ae23-3b11-47f0-8412-14c8fe785ce7,Antonio Barrett,45,Maine,90k+,Very Good,774,A
+46107738-e0cd-4a05-9ae1-bfc9c592399f,Tina Wyatt,51,New York,30k-60k,Very Good,741,B
+926a6420-4157-46aa-b606-cefeed1892cf,Ryan Alexander,28,Idaho,90k+,Good,693,C
+22421881-540b-49e6-8183-5b5a160a3d7d,Linda Palmer,38,Missouri,90k+,Good,683,D
+8ba2e5c4-5659-425b-8b14-6cd4a23a5e50,Felicia Green,48,Illinois,90k+,Very Good,758,B
+de3ef0f8-dfd4-4550-95c7-4060cd40f584,Derek Chambers,40,Massachusetts,90k+,Very Good,757,B
+c596b524-01bc-420e-9b53-4a00994192a4,Steven Johnson,88,Ohio,60k-90k,Fair,596,G
+d0c7a3aa-1f9b-4f8c-a0cb-a1f425616941,Parker Cook,27,Oklahoma,<30k,Fair,636,E
+f7e4c661-0aa3-4562-9214-69daf0af38a2,Amy Pearson,38,Idaho,<30k,Fair,581,G
+ef9c69cb-108c-4cd5-a6cb-c7bc6c2017cd,Melissa Coffey,18,Utah,90k+,Excellent,814,A
+72696f56-a2fb-478f-8b47-eb43e0917e8e,Jose Johnson,70,New Hampshire,30k-60k,Excellent,805,A
+ab6b96b4-c327-4f6e-b258-1c8161d03efa,Catherine Ferguson,75,New Mexico,90k+,Fair,599,G
+e251922d-81af-441b-9cd5-d52147b8c185,Alexander Dean,94,Massachusetts,30k-60k,Good,671,D
+dc3acf05-aba3-4cbc-b80e-6f1faea199fa,Jared Lowe,78,Louisiana,<30k,Very Good,771,A
+a934dca6-db96-4985-96fe-958af92fa004,Brenda Diaz,55,Minnesota,30k-60k,Very Good,753,B
+c1e80cc2-c158-4531-9bb1-eededdc9b115,William Herrera,22,New Jersey,30k-60k,Very Good,761,A
+29521453-16da-4d45-b133-d44e0ad26573,Kayla Johnson,47,Nebraska,<30k,Very Good,766,A
+7538b39a-f766-4c38-a12e-27c4363b1695,Erin Andersen,54,Idaho,60k-90k,Good,709,C
+3c2c35e6-7405-4d4a-bea1-cb4bb22ce473,Jennifer Hall,54,New Mexico,<30k,Good,733,B
+d12088a5-31a8-4738-b37b-2fe24625f570,Meagan Brown,76,Wisconsin,30k-60k,Excellent,823,A
+845c2bd3-e199-4991-a8f4-e55c3efc5b41,Benjamin Myers,27,Washington,60k-90k,Good,729,B
+db000da9-3c6e-43ca-9980-fc4a8841c84b,Leslie May,47,Colorado,90k+,Good,674,D
+3c3f90f8-9761-44af-a94e-f257cef5cd4e,Shelley Baker,51,Mississippi,60k-90k,Excellent,821,A
+1fd41af5-7add-4fbd-a3ca-e476e715b9f8,Zachary Flores,98,New Mexico,30k-60k,Fair,590,G
+da4d1318-efa7-44b2-bfc4-8d237dcccd16,Janet Cruz,93,Oregon,<30k,Very Good,793,A
+2635f487-0618-4090-b361-0b286fd090c5,Sean Castro,43,Idaho,<30k,Fair,598,G
+a44fcfe5-29e2-4deb-9ad9-3c7213d18610,Joseph Leonard,72,Georgia,<30k,Very Good,743,B
+6444d247-5fae-4459-ad26-f1b7f1b75d65,Margaret Dickerson,32,Pennsylvania,30k-60k,Very Good,757,B
+03a44b95-c549-42e1-b252-7f7d9ba13cff,Angela George,87,California,30k-60k,Fair,630,E
+9fd9034c-ca0f-4eb7-9afb-429e9d0411e9,Krystal Fowler,46,Florida,30k-60k,Poor,336,G
+eaff552c-020f-4d08-926d-8f3e12b5b177,Kathy Gonzales,37,Indiana,<30k,Fair,649,E
+1473cd8a-1153-42ad-a84a-5b505ecbcc18,Diane Bowman,52,Nevada,<30k,Poor,540,G
+e95f4016-c3e5-4693-a858-45f141c233f4,Alexandria Jackson,36,Oklahoma,60k-90k,Good,693,C
+943f30b9-c0af-41e0-ab33-bb5660c8e756,Drew Gray,27,Florida,30k-60k,Good,694,C
+b68b0f99-273e-4915-ab19-1ec41e6ea4c9,Kimberly Thompson,25,New Hampshire,30k-60k,Very Good,797,A
+a52ccead-4c26-4e51-af67-a2caf0439882,Jacob Kerr,39,New York,30k-60k,Excellent,816,A
+a75185f9-1ff8-45eb-80fe-5308f3b3fd7a,Thomas Quinn,57,Maine,30k-60k,Good,718,C
+606d95c8-fbf7-4563-944c-ea5fbb2de166,Richard Thomas,94,Montana,60k-90k,Good,671,D
+69f4aef2-401d-43f6-9f01-9481e8fe202d,Henry Morrison,90,Pennsylvania,90k+,Very Good,747,B
+47f44b5f-c3fe-4747-8c3b-b01a41765c36,Heidi Mckay,54,Nevada,60k-90k,Excellent,849,A
+1ff2dee7-58e6-4886-a890-c53b10a68564,Michael Gardner,74,Mississippi,60k-90k,Very Good,785,A
+11fea68b-1654-4b93-b033-486215c51b6b,John Long,33,Montana,<30k,Fair,611,F
+3f25e0de-51f3-4e28-aa65-4e2c4186d297,Amy Diaz,77,Arizona,<30k,Excellent,824,A
+3322eb74-dac6-446c-953b-702bfa234430,Alan Russell,56,Louisiana,30k-60k,Good,726,B
+6a8fe754-1680-47dc-a02c-cf37894587dd,Justin Harris,69,Hawaii,90k+,Good,701,C
+c518b60f-6040-4878-82db-667ee5572935,Thomas Hayes,52,Ohio,60k-90k,Very Good,787,A
+72ffa419-5a5c-4460-b19e-d5c9c64084d1,Anthony Mata DVM,82,Nevada,30k-60k,Good,674,D
+e421ab75-73f7-4466-9010-3b37fe5a87bc,Eugene Preston,87,North Dakota,<30k,Excellent,812,A
+f0d39a0d-eec5-4aeb-82ac-d0793550975b,Patricia Johnson,81,Hawaii,60k-90k,Very Good,769,A
+1c0c76b1-3012-42b2-9800-8d0dccafcd3f,Shirley Walker,74,Alaska,30k-60k,Good,682,D
+6a2c4c2f-53c5-4dbe-838e-df2d49df1f0b,Gary Waters,28,Michigan,<30k,Very Good,773,A
+f610a7ef-ec23-4cbf-a74c-0faf45541975,Yvette Anderson,94,Idaho,<30k,Fair,665,D
+05ca77d1-a42f-4560-876f-24514a75b38b,Jessica Watkins,23,New York,60k-90k,Excellent,813,A
+d8fad670-5287-404e-9bec-0b22517eba7a,Ian Henderson,73,Maryland,90k+,Fair,640,E
+94cbeea4-a82d-4b67-8f37-2922010b3f86,Julia Reynolds,59,Rhode Island,60k-90k,Fair,629,F
+4808a84c-fee8-4bf4-9471-b110b91360b0,Melvin Liu,95,Georgia,<30k,Very Good,783,A
+ff8aa60a-7a7e-4fed-a843-5684553acebc,Amy Howard,50,West Virginia,90k+,Excellent,819,A
+d2180f58-5179-4761-9d2b-c39a1c57bd9d,Ashley Miller,21,Wisconsin,<30k,Very Good,799,A
+f2413fdf-c39e-4d52-85ab-32ad4ba7df38,Tommy Dickerson,29,New York,90k+,Fair,621,F
+e91aa97f-2e84-4d05-9cc1-aeeeeb80c710,Michael Alvarado,47,Wisconsin,30k-60k,Very Good,750,B
+bdc80615-8164-4e4c-b741-570fea0072c4,Bryan Daniel,91,Virginia,30k-60k,Poor,321,G
+835af002-0d05-4c25-9283-ba7670a62eb7,Marilyn Schroeder,93,New York,60k-90k,Excellent,847,A
+8eba0fc9-c61c-4ff1-88da-6769b64e6cf1,Richard Ray,20,Michigan,90k+,Poor,566,G
+08d3f0bb-d2ca-48de-9d03-1bd9ac437a6d,Olivia Tucker,52,West Virginia,60k-90k,Poor,362,G
+21089eac-826f-475a-a4da-4b9dc36dfc17,Jason Brooks,91,Massachusetts,60k-90k,Good,702,C
+e8f9e8b4-ae61-4946-bae4-2c593421df54,Michelle Nichols,23,Vermont,60k-90k,Excellent,830,A
+f483409b-c399-4ef3-b251-f353c912571c,Michael Krause,40,Maine,30k-60k,Fair,661,D
+dd3aac7b-172c-43dd-b40e-2e6521369ed3,Michael Carlson,78,Delaware,60k-90k,Excellent,819,A
+9f98e1ab-a91f-472c-9377-4f20f0778e99,Tara Hodges,84,Connecticut,30k-60k,Poor,401,G
+c76dc0c6-0b79-4d56-b127-18d948612eca,Michael Allen,74,Utah,<30k,Excellent,823,A
+5a90457e-2660-4b60-b1f1-a15fd779dc37,Scott Johnson,53,Illinois,30k-60k,Very Good,796,A
+2806870d-b51f-4b6f-bf9c-c12ce7b33337,Kelsey Stark,41,Maryland,<30k,Very Good,743,B
+4f0ef0a2-37b6-4960-b92a-35181d1f8884,Dawn Jones,92,Missouri,30k-60k,Good,697,C
+efd3b03f-6ad6-4ddf-b7c5-5bf0e8e8006c,Michael Mcguire,73,Idaho,30k-60k,Good,684,D
+24c684f6-b3d0-4553-8e7b-ce2b5a313643,Michelle Douglas,99,Nevada,90k+,Excellent,815,A
+10a4c0b7-dbb8-440f-b9a3-f337f79ba183,Mrs. Lisa Bates,80,Arkansas,90k+,Good,725,B
+3b4fd559-64bc-4ae9-bdb5-93b0822be0ca,Lindsay Williams,29,Missouri,60k-90k,Excellent,820,A
+bed4db69-38c8-4243-9aff-d32ead649492,Evan Washington,78,Arizona,60k-90k,Very Good,740,B
+9687a985-4711-4136-b82e-332afba0a4bc,Katherine Moody,62,Hawaii,30k-60k,Fair,601,F
+e160644c-87ba-4a8c-b5ab-1c80360033cf,Timothy Hall,70,Mississippi,60k-90k,Very Good,790,A
+c4279452-1ab9-4813-990f-ac468dcf6b6f,Daniel Dominguez,60,Georgia,90k+,Fair,615,F
+efd53c9d-263e-42e6-9c8f-343737d9bee3,Christopher Mccarthy,59,California,60k-90k,Good,685,D
+50d00c23-5caf-4e74-8cc3-21a8192dbcfe,Megan Murray,31,Arizona,<30k,Very Good,765,A
+bb451289-8207-4b58-9ab1-f34325374b0a,Margaret Boyle,38,Vermont,<30k,Poor,424,G
+bcdc46eb-ab6d-4e74-bba6-47aee85ae9a8,Robert Cox,60,Vermont,30k-60k,Good,671,D
+15fd6f21-28f9-43c1-98b4-b42a69dc402d,Brandon Hicks,70,New York,60k-90k,Excellent,802,A
+a9336237-4b88-4221-93dd-3ea13a251d8d,Bailey Jimenez,81,Florida,60k-90k,Excellent,837,A
+bba8f48d-14e4-40df-9bee-cb6764583c41,Andre Watson,54,Alaska,90k+,Very Good,790,A
+af7331cc-f03f-4e19-9c89-40ad8e6ce94f,Daniel Lawrence,69,Nevada,30k-60k,Good,730,B
+8adb6e34-0f75-42b2-bf97-418e595bf79e,Carlos Ruiz,88,Vermont,90k+,Fair,668,D
+6dcdfe5a-fd02-4e83-9fe5-991ef279d585,Brenda Garrett,22,Florida,<30k,Good,689,D
+30aa612f-b422-4501-a18e-8371b40abe53,Nicholas Jordan,76,New Mexico,60k-90k,Good,717,C
+335c39fe-5a1e-476f-9485-033b292e0748,Jeffrey Thompson,29,Louisiana,60k-90k,Good,681,D
+6be14043-d256-4d91-8063-4fc28ede6c5c,Jonathan Campos,58,North Carolina,<30k,Very Good,755,B
+58e9965c-89d2-456f-a996-dd5eeab2465c,Elizabeth Turner,50,Arkansas,30k-60k,Very Good,750,B
+5cba8a40-4cc3-4fba-8309-62e5fc2230fc,Patricia May,59,Indiana,30k-60k,Good,733,B
+36bc066d-b84e-4d76-bb89-ca86173a8092,Alexis Jimenez,32,New Jersey,30k-60k,Good,681,D
+bd4c03fc-e299-4d35-9beb-baf2112c0ef9,Matthew Owen,69,Utah,<30k,Excellent,843,A
+f923970c-7322-47b0-b18a-790b8b6c2588,Renee Wagner,83,Minnesota,60k-90k,Excellent,839,A
+41ee780c-0b8b-4d65-9dfe-30caa7004979,Randy Ryan,18,Kentucky,60k-90k,Very Good,761,A
+58168c56-e2f4-4fc3-8b62-7fc676f1b177,David Powell,87,Rhode Island,30k-60k,Very Good,799,A
+6030a2e7-7875-48a5-984b-9df826582dc4,Daniel Robinson,77,Rhode Island,90k+,Very Good,788,A
+8dff6861-3e93-4fef-b3bb-1612bb265a4c,Laurie Houston,70,Tennessee,60k-90k,Very Good,780,A
+703e90fc-2394-409d-85e1-6a8212f59531,Tiffany Smith,24,Iowa,60k-90k,Fair,587,G
+ab1c64bd-7f39-43bc-a589-040c45b58721,Juan Brown,42,New Hampshire,60k-90k,Excellent,803,A
+61a704d2-5b6d-4c35-8221-0b88eb4e28fc,Mr. Edward Anderson,84,Georgia,60k-90k,Poor,482,G
+1812abd9-c80f-46cf-aa46-6b4c85d2c2c4,Tabitha Matthews,64,Maryland,90k+,Very Good,781,A
+d872bd59-0cd2-4245-91d9-78339c9d650f,Kirsten Smith,97,North Carolina,30k-60k,Very Good,749,B
+d9a29c96-b7c3-4a9a-a7be-a3e8f4140506,Lonnie Robinson,81,Maryland,30k-60k,Very Good,784,A
+c892a417-746f-498f-a7fb-3fb742ae44a8,Miranda Elliott,98,Oklahoma,90k+,Poor,574,G
+6595c202-a1a8-4709-aebd-89dc7a0ca435,Alyssa Schmidt,74,Idaho,30k-60k,Good,683,D
+0f592e05-f80c-4729-afdd-97bb47c3eaba,Jay Lewis,24,Iowa,60k-90k,Very Good,748,B
+ad25d9b5-0c4e-45bd-ab07-3baf73e21001,Barbara Baker,44,West Virginia,60k-90k,Good,732,B
+60077847-5951-48a2-864c-1bcb2f96c50a,Jo Russell,52,Colorado,60k-90k,Very Good,754,B
+a8aea581-7552-4bb9-a06a-cd75d258146f,Bonnie Blackwell,88,Mississippi,90k+,Good,710,C
+7962fa82-bea7-463e-a079-22612589ba36,Amy Murphy,34,Rhode Island,60k-90k,Good,714,C
+37e5cada-ab3c-4b39-a916-fc92e5a55a4c,Jonathan Sullivan,54,Montana,90k+,Excellent,828,A
+5e91966c-b53a-4336-9cd9-ef6b26800076,Lucas Snyder,74,Maine,30k-60k,Good,694,C
+334e4e86-25e2-48aa-b3e9-02ba62fdf976,Pamela Lewis,80,New Jersey,30k-60k,Excellent,801,A
+ef1c7bd2-cb6b-4786-ac96-c93bc455d3c0,Michelle Klein,33,Maryland,90k+,Excellent,844,A
+005cdabe-e06e-4eeb-854f-aa6f59947b4e,Katelyn Morales,21,Delaware,30k-60k,Fair,628,F
+a29ac12e-dcaa-432e-ae28-cfedf1d1d808,John Avery,98,Minnesota,30k-60k,Good,715,C
+351f7b79-8730-4326-9de2-80157742b8c7,Jay Shepherd,95,Georgia,90k+,Poor,368,G
+69535ef6-c3da-4d52-b61c-4af2c09fab7f,James Miller,48,New Mexico,90k+,Good,702,C
+bbdfd58a-9264-4dc6-b00a-1a8e41436401,Rachel George,38,Illinois,90k+,Excellent,802,A
+2e9cce73-2464-4b5c-a172-66190ea2a773,Tanner Orozco,57,New Hampshire,60k-90k,Good,732,B
+24cb77ab-94b7-469f-a856-2ea0b80a965c,Victoria Holmes,88,Oregon,60k-90k,Excellent,845,A
+5fe2c5ea-d908-4bb9-b3bf-e87542397629,Gina Johnson,19,Florida,30k-60k,Good,726,B
+3a58f936-a442-41ec-b982-9dac0c753405,Joseph Noble,88,Oklahoma,30k-60k,Very Good,775,A
+baad3a54-d2c2-4533-8116-99f783761819,Michael Gregory,70,Washington,60k-90k,Very Good,758,B
+2ce55216-dd6b-483a-9aec-ce201c8a3085,Stefanie Warren,29,West Virginia,90k+,Very Good,774,A
+a98d00e2-7d55-4459-b168-b9075a8d5640,Melvin Pearson,46,Missouri,60k-90k,Very Good,784,A
+b198002d-13de-4f22-8b81-457e3807a733,Nicole Meza,32,Rhode Island,30k-60k,Good,732,B
+60c78083-2cfc-41c9-b880-cf086c8dfb1c,Nicole Rodriguez,77,Tennessee,60k-90k,Very Good,752,B

@@ -1,0 +1,73 @@
+version: 2
+
+models:
+  - name: stg_current_exposure
+    description: "Live loans at the 2025-06-01 observation date, with grade and state, for concentration analysis"
+    columns:
+      - name: loan_id
+        tests:
+          - not_null
+          - unique
+      - name: grade
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+      - name: balance
+        tests:
+          - not_null
+
+  - name: concentration_by_grade
+    description: "Exposure share by grade at the observation date"
+    columns:
+      - name: grade
+        tests:
+          - not_null
+          - unique
+      - name: exposure_share
+        tests:
+          - not_null
+
+  - name: concentration_by_state
+    description: "Exposure share by state at the observation date"
+    columns:
+      - name: state
+        tests:
+          - not_null
+          - unique
+      - name: exposure_share
+        tests:
+          - not_null
+
+  - name: expected_loss
+    description: "PD x LGD x EAD expected loss per grade"
+    columns:
+      - name: grade
+        tests:
+          - not_null
+          - unique
+      - name: pd
+        tests:
+          - not_null
+
+  - name: stress_scenario
+    description: "Expected loss under a 2x PD shock, vs baseline"
+    columns:
+      - name: grade
+        tests:
+          - not_null
+          - unique
+
+  - name: roll_rate_matrix
+    description: "Month-over-month transition rates between delinquency buckets"
+    columns:
+      - name: previous_status
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['current', '30 days late', '60 days late', '90 days late', '120 days late']
+      - name: new_status
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['current', '30 days late', '60 days late', '90 days late', '120 days late', 'charged off', 'paid off']
